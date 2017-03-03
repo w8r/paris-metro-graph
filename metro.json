@@ -1,0 +1,5472 @@
+{
+  "nodes": [
+    {
+      "id": 12388528,
+      "text": "Châtillon-Montrouge",
+      "size": 5,
+      "x": 23015.874,
+      "y": -488108.097,
+      "longitude": 2.3015874,
+      "latitude": 48.8108097,
+      "visited": true
+    },
+    {
+      "id": 12388534,
+      "text": "Malakoff - Rue Étienne Dolet",
+      "size": 5,
+      "x": 22970.255,
+      "y": -488153.367,
+      "longitude": 2.2970255,
+      "latitude": 48.8153367,
+      "visited": true
+    },
+    {
+      "id": 27332092,
+      "text": "Esplanade de La Défense",
+      "size": 5,
+      "x": 22494.747,
+      "y": -488882.396,
+      "longitude": 2.2494747,
+      "latitude": 48.8882396,
+      "visited": true
+    },
+    {
+      "id": 27362238,
+      "text": "Les Sablons",
+      "size": 5,
+      "x": 22720.961000000003,
+      "y": -488810.615,
+      "longitude": 2.2720961,
+      "latitude": 48.8810615,
+      "visited": true
+    },
+    {
+      "id": 27362240,
+      "text": "Argentine",
+      "size": 5,
+      "x": 22893.655000000002,
+      "y": -488755.816,
+      "longitude": 2.2893655,
+      "latitude": 48.8755816,
+      "visited": true
+    },
+    {
+      "id": 27362249,
+      "text": "George V",
+      "size": 5,
+      "x": 23004.269,
+      "y": -488720.688,
+      "longitude": 2.3004269,
+      "latitude": 48.8720688,
+      "visited": true
+    },
+    {
+      "id": 27362251,
+      "text": "Franklin D. Roosevelt",
+      "size": 5,
+      "x": 23099.266,
+      "y": -488690.339,
+      "longitude": 2.3099266,
+      "latitude": 48.8690339,
+      "visited": true
+    },
+    {
+      "id": 27362257,
+      "text": "Concorde",
+      "size": 5,
+      "x": 23221.445,
+      "y": -488661.544,
+      "longitude": 2.3221445,
+      "latitude": 48.8661544,
+      "visited": true
+    },
+    {
+      "id": 27362258,
+      "text": "Tuileries",
+      "size": 5,
+      "x": 23304.389,
+      "y": -488642.48000000004,
+      "longitude": 2.3304389,
+      "latitude": 48.864248,
+      "visited": true
+    },
+    {
+      "id": 27362259,
+      "text": "Palais Royal - Musée du Louvre",
+      "size": 5,
+      "x": 23363.491,
+      "y": -488623.926,
+      "longitude": 2.3363491,
+      "latitude": 48.8623926,
+      "visited": true
+    },
+    {
+      "id": 27362260,
+      "text": "Louvre — Rivoli",
+      "size": 5,
+      "x": 23411.235,
+      "y": -488608.027,
+      "longitude": 2.3411235,
+      "latitude": 48.8608027,
+      "visited": true
+    },
+    {
+      "id": 27371862,
+      "text": "Châtelet",
+      "size": 5,
+      "x": 23474.106,
+      "y": -488587.782,
+      "longitude": 2.3474106,
+      "latitude": 48.8587782
+    },
+    {
+      "id": 27371867,
+      "text": "Saint-Paul",
+      "size": 5,
+      "x": 23603.521999999997,
+      "y": -488553.789,
+      "longitude": 2.3603522,
+      "latitude": 48.8553789,
+      "visited": true
+    },
+    {
+      "id": 27371876,
+      "text": "Bastille",
+      "size": 5,
+      "x": 23686.541999999998,
+      "y": -488520.122,
+      "longitude": 2.3686542,
+      "latitude": 48.8520122,
+      "visited": true
+    },
+    {
+      "id": 27371889,
+      "text": "Gare de Lyon (métro 1)",
+      "size": 5,
+      "x": 23741.911,
+      "y": -488459.232,
+      "longitude": 2.3741911,
+      "latitude": 48.8459232,
+      "visited": true
+    },
+    {
+      "id": 27371892,
+      "text": "Reuilly — Diderot",
+      "size": 5,
+      "x": 23868.055,
+      "y": -488473.59099999996,
+      "longitude": 2.3868055,
+      "latitude": 48.8473591,
+      "visited": true
+    },
+    {
+      "id": 27371900,
+      "text": "Porte de Vincennes",
+      "size": 5,
+      "x": 24080.860999999997,
+      "y": -488473.33499999996,
+      "longitude": 2.4080861,
+      "latitude": 48.8473335,
+      "visited": true
+    },
+    {
+      "id": 29588070,
+      "text": "Marcel Sembat",
+      "size": 5,
+      "x": 22435.931,
+      "y": -488336.468,
+      "longitude": 2.2435931,
+      "latitude": 48.8336468,
+      "visited": true
+    },
+    {
+      "id": 34909170,
+      "text": "La Motte-Picquet - Grenelle",
+      "size": 5,
+      "x": 22981.916,
+      "y": -488489.809,
+      "longitude": 2.2981916,
+      "latitude": 48.8489809,
+      "visited": true
+    },
+    {
+      "id": 34909171,
+      "text": "Cambronne",
+      "size": 5,
+      "x": 23029.524,
+      "y": -488475.338,
+      "longitude": 2.3029524,
+      "latitude": 48.8475338,
+      "visited": true
+    },
+    {
+      "id": 34909187,
+      "text": "Dupleix",
+      "size": 5,
+      "x": 22936.684999999998,
+      "y": -488504.212,
+      "longitude": 2.2936685,
+      "latitude": 48.8504212,
+      "visited": true
+    },
+    {
+      "id": 134299001,
+      "text": "Mairie d'Issy",
+      "size": 5,
+      "x": 22731.713,
+      "y": -488241.474,
+      "longitude": 2.2731713,
+      "latitude": 48.8241474,
+      "visited": true
+    },
+    {
+      "id": 134299013,
+      "text": "Corentin Celton",
+      "size": 5,
+      "x": 22793.746000000003,
+      "y": -488270.526,
+      "longitude": 2.2793746,
+      "latitude": 48.8270526,
+      "visited": true
+    },
+    {
+      "id": 134305192,
+      "text": "Porte de Versailles",
+      "size": 5,
+      "x": 22879.898,
+      "y": -488324.292,
+      "longitude": 2.2879898,
+      "latitude": 48.8324292,
+      "visited": true
+    },
+    {
+      "id": 134305198,
+      "text": "Convention",
+      "size": 5,
+      "x": 22966.291999999998,
+      "y": -488373.091,
+      "longitude": 2.2966292,
+      "latitude": 48.8373091,
+      "visited": true
+    },
+    {
+      "id": 137533248,
+      "text": "La Défense - Grande Arche",
+      "size": 5,
+      "x": 22377.691,
+      "y": -488919.677,
+      "longitude": 2.2377691,
+      "latitude": 48.8919677,
+      "visited": true
+    },
+    {
+      "id": 220289379,
+      "text": "Porte d'Orléans",
+      "size": 5,
+      "x": 23256.397999999997,
+      "y": -488236.371,
+      "longitude": 2.3256398,
+      "latitude": 48.8236371,
+      "visited": true
+    },
+    {
+      "id": 220289382,
+      "text": "Alésia",
+      "size": 5,
+      "x": 23270.406000000003,
+      "y": -488280.31799999997,
+      "longitude": 2.3270406,
+      "latitude": 48.8280318,
+      "visited": true
+    },
+    {
+      "id": 220289385,
+      "text": "Mouton-Duvernet",
+      "size": 5,
+      "x": 23298.549,
+      "y": -488312.84699999995,
+      "longitude": 2.3298549,
+      "latitude": 48.8312847,
+      "visited": true
+    },
+    {
+      "id": 220289387,
+      "text": "Denfert-Rochereau",
+      "size": 5,
+      "x": 23326.258,
+      "y": -488342.613,
+      "longitude": 2.3326258,
+      "latitude": 48.8342613,
+      "visited": true
+    },
+    {
+      "id": 220289389,
+      "text": "Raspail",
+      "size": 5,
+      "x": 23307.591,
+      "y": -488389.619,
+      "longitude": 2.3307591,
+      "latitude": 48.8389619,
+      "visited": true
+    },
+    {
+      "id": 235369898,
+      "text": "Saint-Jacques",
+      "size": 5,
+      "x": 23366.295,
+      "y": -488330.168,
+      "longitude": 2.3366295,
+      "latitude": 48.8330168,
+      "visited": true
+    },
+    {
+      "id": 235370184,
+      "text": "Glacière",
+      "size": 5,
+      "x": 23434.841999999997,
+      "y": -488311.288,
+      "longitude": 2.3434842,
+      "latitude": 48.8311288,
+      "visited": true
+    },
+    {
+      "id": 235370505,
+      "text": "Corvisart",
+      "size": 5,
+      "x": 23504.703999999998,
+      "y": -488297.78500000003,
+      "longitude": 2.3504704,
+      "latitude": 48.8297785,
+      "visited": true
+    },
+    {
+      "id": 235371392,
+      "text": "Place d'Italie",
+      "size": 5,
+      "x": 23558.807,
+      "y": -488308.78599999996,
+      "longitude": 2.3558807,
+      "latitude": 48.8308786,
+      "visited": true
+    },
+    {
+      "id": 235371394,
+      "text": "Nationale",
+      "size": 5,
+      "x": 23628.553,
+      "y": -488331.98600000003,
+      "longitude": 2.3628553,
+      "latitude": 48.8331986,
+      "visited": true
+    },
+    {
+      "id": 235371395,
+      "text": "Chevaleret",
+      "size": 5,
+      "x": 23680.817,
+      "y": -488349.549,
+      "longitude": 2.3680817,
+      "latitude": 48.8349549,
+      "visited": true
+    },
+    {
+      "id": 235374383,
+      "text": "Quai de la Gare",
+      "size": 5,
+      "x": 23729.066,
+      "y": -488370.762,
+      "longitude": 2.3729066,
+      "latitude": 48.8370762,
+      "visited": true
+    },
+    {
+      "id": 235377792,
+      "text": "Stalingrad",
+      "size": 5,
+      "x": 23670.740999999998,
+      "y": -488842.416,
+      "longitude": 2.3670741,
+      "latitude": 48.8842416,
+      "visited": true
+    },
+    {
+      "id": 241928557,
+      "text": "Nation",
+      "size": 5,
+      "x": 23955.668,
+      "y": -488476.11,
+      "longitude": 2.3955668,
+      "latitude": 48.847611,
+      "visited": true
+    },
+    {
+      "id": 241928757,
+      "text": "Château de Vincennes",
+      "size": 5,
+      "x": 24389.120000000003,
+      "y": -488445.799,
+      "longitude": 2.438912,
+      "latitude": 48.8445799,
+      "visited": true
+    },
+    {
+      "id": 241928758,
+      "text": "Bérault",
+      "size": 5,
+      "x": 24292.637,
+      "y": -488454.47299999994,
+      "longitude": 2.4292637,
+      "latitude": 48.8454473,
+      "visited": true
+    },
+    {
+      "id": 243357000,
+      "text": "Buttes Chaumont",
+      "size": 5,
+      "x": 23811.887,
+      "y": -488783.952,
+      "longitude": 2.3811887,
+      "latitude": 48.8783952
+    },
+    {
+      "id": 243358029,
+      "text": "Bolivar",
+      "size": 5,
+      "x": 23739.077,
+      "y": -488809.263,
+      "longitude": 2.3739077,
+      "latitude": 48.8809263
+    },
+    {
+      "id": 243486950,
+      "text": "Buzenval",
+      "size": 5,
+      "x": 24013.757,
+      "y": -488518.16599999997,
+      "longitude": 2.4013757,
+      "latitude": 48.8518166,
+      "visited": true
+    },
+    {
+      "id": 243487863,
+      "text": "Saint-Mandé",
+      "size": 5,
+      "x": 24184.422,
+      "y": -488464.35,
+      "longitude": 2.4184422,
+      "latitude": 48.846435,
+      "visited": true
+    },
+    {
+      "id": 243489718,
+      "text": "Avron",
+      "size": 5,
+      "x": 23979.296,
+      "y": -488520.027,
+      "longitude": 2.3979296,
+      "latitude": 48.8520027,
+      "visited": true
+    },
+    {
+      "id": 243490761,
+      "text": "Ménilmontant",
+      "size": 5,
+      "x": 23836.702999999998,
+      "y": -488663.246,
+      "longitude": 2.3836703,
+      "latitude": 48.8663246,
+      "visited": true
+    },
+    {
+      "id": 243490762,
+      "text": "Père Lachaise",
+      "size": 5,
+      "x": 23874.347999999998,
+      "y": -488629.496,
+      "longitude": 2.3874348,
+      "latitude": 48.8629496,
+      "visited": true
+    },
+    {
+      "id": 243490763,
+      "text": "Philippe Auguste",
+      "size": 5,
+      "x": 23901.666,
+      "y": -488582.563,
+      "longitude": 2.3901666,
+      "latitude": 48.8582563,
+      "visited": true
+    },
+    {
+      "id": 243490764,
+      "text": "Alexandre Dumas",
+      "size": 5,
+      "x": 23949.195,
+      "y": -488559.23699999996,
+      "longitude": 2.3949195,
+      "latitude": 48.8559237,
+      "visited": true
+    },
+    {
+      "id": 243493845,
+      "text": "Belleville",
+      "size": 5,
+      "x": 23770.318000000003,
+      "y": -488719.933,
+      "longitude": 2.3770318,
+      "latitude": 48.8719933,
+      "visited": true
+    },
+    {
+      "id": 243493846,
+      "text": "Couronnes",
+      "size": 5,
+      "x": 23805.811,
+      "y": -488690.43499999994,
+      "longitude": 2.3805811,
+      "latitude": 48.8690435,
+      "visited": true
+    },
+    {
+      "id": 243493916,
+      "text": "Colonel Fabien",
+      "size": 5,
+      "x": 23710.197,
+      "y": -488774.21499999997,
+      "longitude": 2.3710197,
+      "latitude": 48.8774215,
+      "visited": true
+    },
+    {
+      "id": 243496025,
+      "text": "Blanche",
+      "size": 5,
+      "x": 23336.343,
+      "y": -488834.886,
+      "longitude": 2.3336343,
+      "latitude": 48.8834886,
+      "visited": true
+    },
+    {
+      "id": 243496027,
+      "text": "Place de Clichy",
+      "size": 5,
+      "x": 23272.271999999997,
+      "y": -488834.316,
+      "longitude": 2.3272272,
+      "latitude": 48.8834316,
+      "visited": true
+    },
+    {
+      "id": 243496028,
+      "text": "Rome",
+      "size": 5,
+      "x": 23213.306,
+      "y": -488822.428,
+      "longitude": 2.3213306,
+      "latitude": 48.8822428,
+      "visited": true
+    },
+    {
+      "id": 243496029,
+      "text": "Villiers",
+      "size": 5,
+      "x": 23149.051,
+      "y": -488811.192,
+      "longitude": 2.3149051,
+      "latitude": 48.8811192,
+      "visited": true
+    },
+    {
+      "id": 243496030,
+      "text": "Monceau",
+      "size": 5,
+      "x": 23085.925,
+      "y": -488802.91900000005,
+      "longitude": 2.3085925,
+      "latitude": 48.8802919,
+      "visited": true
+    },
+    {
+      "id": 243496729,
+      "text": "Porte Dauphine",
+      "size": 5,
+      "x": 22777.713,
+      "y": -488713.18000000005,
+      "longitude": 2.2777713,
+      "latitude": 48.871318,
+      "visited": true
+    },
+    {
+      "id": 243507233,
+      "text": "Gallieni",
+      "size": 5,
+      "x": 24166.820000000003,
+      "y": -488653.357,
+      "longitude": 2.416682,
+      "latitude": 48.8653357
+    },
+    {
+      "id": 243507234,
+      "text": "Porte de Bagnolet",
+      "size": 5,
+      "x": 24088.090000000004,
+      "y": -488645.859,
+      "longitude": 2.408809,
+      "latitude": 48.8645859
+    },
+    {
+      "id": 243507789,
+      "text": "Rue Saint-Maur",
+      "size": 5,
+      "x": 23794.811999999998,
+      "y": -488643.338,
+      "longitude": 2.3794812,
+      "latitude": 48.8643338
+    },
+    {
+      "id": 243507790,
+      "text": "Parmentier",
+      "size": 5,
+      "x": 23739.112,
+      "y": -488653.786,
+      "longitude": 2.3739112,
+      "latitude": 48.8653786
+    },
+    {
+      "id": 243507792,
+      "text": "Temple",
+      "size": 5,
+      "x": 23606.333,
+      "y": -488664.74799999996,
+      "longitude": 2.3606333,
+      "latitude": 48.8664748
+    },
+    {
+      "id": 243507793,
+      "text": "Arts et Métiers",
+      "size": 5,
+      "x": 23561.316,
+      "y": -488654.414,
+      "longitude": 2.3561316,
+      "latitude": 48.8654414,
+      "visited": true
+    },
+    {
+      "id": 243507794,
+      "text": "Réaumur - Sébastopol",
+      "size": 5,
+      "x": 23525.513,
+      "y": -488662.385,
+      "longitude": 2.3525513,
+      "latitude": 48.8662385,
+      "visited": true
+    },
+    {
+      "id": 243510334,
+      "text": "Bourse",
+      "size": 5,
+      "x": 23414.739,
+      "y": -488686.296,
+      "longitude": 2.3414739,
+      "latitude": 48.8686296
+    },
+    {
+      "id": 243510335,
+      "text": "Quatre Septembre",
+      "size": 5,
+      "x": 23366.804,
+      "y": -488695.00100000005,
+      "longitude": 2.3366804,
+      "latitude": 48.8695001
+    },
+    {
+      "id": 243510336,
+      "text": "Opéra",
+      "size": 5,
+      "x": 23323.554,
+      "y": -488706.77800000005,
+      "longitude": 2.3323554,
+      "latitude": 48.8706778,
+      "visited": true
+    },
+    {
+      "id": 243510337,
+      "text": "Havre - Caumartin",
+      "size": 5,
+      "x": 23273.189,
+      "y": -488736.79199999996,
+      "longitude": 2.3273189,
+      "latitude": 48.8736792,
+      "visited": true
+    },
+    {
+      "id": 243510678,
+      "text": "Malesherbes",
+      "size": 5,
+      "x": 23092.267,
+      "y": -488828.567,
+      "longitude": 2.3092267,
+      "latitude": 48.8828567
+    },
+    {
+      "id": 243510679,
+      "text": "Wagram",
+      "size": 5,
+      "x": 23037.188,
+      "y": -488840.05000000005,
+      "longitude": 2.3037188,
+      "latitude": 48.884005
+    },
+    {
+      "id": 243510680,
+      "text": "Péreire",
+      "size": 5,
+      "x": 22989.826999999997,
+      "y": -488847.004,
+      "longitude": 2.2989827,
+      "latitude": 48.8847004
+    },
+    {
+      "id": 243510681,
+      "text": "Porte de Champerret",
+      "size": 5,
+      "x": 22934.906000000003,
+      "y": -488859.272,
+      "longitude": 2.2934906,
+      "latitude": 48.8859272
+    },
+    {
+      "id": 244494486,
+      "text": "Vaugirard",
+      "size": 5,
+      "x": 23012.923000000003,
+      "y": -488395.78500000003,
+      "longitude": 2.3012923,
+      "latitude": 48.8395785,
+      "visited": true
+    },
+    {
+      "id": 244494489,
+      "text": "Volontaires",
+      "size": 5,
+      "x": 23080.031,
+      "y": -488415.194,
+      "longitude": 2.3080031,
+      "latitude": 48.8415194,
+      "visited": true
+    },
+    {
+      "id": 244494496,
+      "text": "Falguière",
+      "size": 5,
+      "x": 23175.634000000002,
+      "y": -488443.954,
+      "longitude": 2.3175634,
+      "latitude": 48.8443954,
+      "visited": true
+    },
+    {
+      "id": 245250755,
+      "text": "Duroc",
+      "size": 5,
+      "x": 23166.375,
+      "y": -488468.544,
+      "longitude": 2.3166375,
+      "latitude": 48.8468544,
+      "visited": true
+    },
+    {
+      "id": 245250758,
+      "text": "Saint-François-Xavier",
+      "size": 5,
+      "x": 23144.012,
+      "y": -488513.98000000004,
+      "longitude": 2.3144012,
+      "latitude": 48.851398,
+      "visited": true
+    },
+    {
+      "id": 245250759,
+      "text": "Varenne",
+      "size": 5,
+      "x": 23150.585000000003,
+      "y": -488568.023,
+      "longitude": 2.3150585,
+      "latitude": 48.8568023,
+      "visited": true
+    },
+    {
+      "id": 245455187,
+      "text": "Bel-Air",
+      "size": 5,
+      "x": 24008.998,
+      "y": -488413.343,
+      "longitude": 2.4008998,
+      "latitude": 48.8413343,
+      "visited": true
+    },
+    {
+      "id": 249335596,
+      "text": "Marx Dormoy",
+      "size": 5,
+      "x": 23599.967,
+      "y": -488905.06100000005,
+      "longitude": 2.3599967,
+      "latitude": 48.8905061,
+      "visited": true
+    },
+    {
+      "id": 249524554,
+      "text": "Gabriel Péri",
+      "size": 5,
+      "x": 22946.540999999997,
+      "y": -489163.96900000004,
+      "longitude": 2.2946541,
+      "latitude": 48.9163969,
+      "visited": true
+    },
+    {
+      "id": 251387813,
+      "text": "Jacques Bonsergent",
+      "size": 5,
+      "x": 23607.546,
+      "y": -488711.191,
+      "longitude": 2.3607546,
+      "latitude": 48.8711191,
+      "visited": true
+    },
+    {
+      "id": 255000799,
+      "text": "Anatole France",
+      "size": 5,
+      "x": 22850.318,
+      "y": -488920.499,
+      "longitude": 2.2850318,
+      "latitude": 48.8920499
+    },
+    {
+      "id": 255160720,
+      "text": "Croix de Chavaux",
+      "size": 5,
+      "x": 24357.587,
+      "y": -488579.45999999996,
+      "longitude": 2.4357587,
+      "latitude": 48.857946,
+      "visited": true
+    },
+    {
+      "id": 255160722,
+      "text": "Mairie de Montreuil",
+      "size": 5,
+      "x": 24415.69,
+      "y": -488625.988,
+      "longitude": 2.441569,
+      "latitude": 48.8625988,
+      "visited": true
+    },
+    {
+      "id": 255161921,
+      "text": "Pont de Levallois – Bécon",
+      "size": 5,
+      "x": 22803.973,
+      "y": -488971.40800000005,
+      "longitude": 2.2803973,
+      "latitude": 48.8971408
+    },
+    {
+      "id": 255162203,
+      "text": "Louise Michel",
+      "size": 5,
+      "x": 22884.734,
+      "y": -488882.80299999996,
+      "longitude": 2.2884734,
+      "latitude": 48.8882803
+    },
+    {
+      "id": 256441194,
+      "text": "Maraîchers",
+      "size": 5,
+      "x": 24061.094,
+      "y": -488526.992,
+      "longitude": 2.4061094,
+      "latitude": 48.8526992,
+      "visited": true
+    },
+    {
+      "id": 256442276,
+      "text": "Porte de Montreuil",
+      "size": 5,
+      "x": 24105.242,
+      "y": -488534.759,
+      "longitude": 2.4105242,
+      "latitude": 48.8534759,
+      "visited": true
+    },
+    {
+      "id": 256442845,
+      "text": "Robespierre",
+      "size": 5,
+      "x": 24237.107999999997,
+      "y": -488558.145,
+      "longitude": 2.4237108,
+      "latitude": 48.8558145,
+      "visited": true
+    },
+    {
+      "id": 256443205,
+      "text": "Rue des Boulets",
+      "size": 5,
+      "x": 23887.914,
+      "y": -488525.80799999996,
+      "longitude": 2.3887914,
+      "latitude": 48.8525808,
+      "visited": true
+    },
+    {
+      "id": 256443438,
+      "text": "Charonne",
+      "size": 5,
+      "x": 23853.565,
+      "y": -488547.441,
+      "longitude": 2.3853565,
+      "latitude": 48.8547441,
+      "visited": true
+    },
+    {
+      "id": 256895321,
+      "text": "Voltaire",
+      "size": 5,
+      "x": 23798.043999999998,
+      "y": -488581.58,
+      "longitude": 2.3798044,
+      "latitude": 48.858158,
+      "visited": true
+    },
+    {
+      "id": 256895609,
+      "text": "Saint-Ambroise",
+      "size": 5,
+      "x": 23747.956000000002,
+      "y": -488610.51600000006,
+      "longitude": 2.3747956,
+      "latitude": 48.8610516,
+      "visited": true
+    },
+    {
+      "id": 256896059,
+      "text": "Oberkampf",
+      "size": 5,
+      "x": 23694.164999999997,
+      "y": -488640.529,
+      "longitude": 2.3694165,
+      "latitude": 48.8640529,
+      "visited": true
+    },
+    {
+      "id": 256897077,
+      "text": "Strasbourg - Saint-Denis",
+      "size": 5,
+      "x": 23542.825,
+      "y": -488693.002,
+      "longitude": 2.3542825,
+      "latitude": 48.8693002,
+      "visited": true
+    },
+    {
+      "id": 256897078,
+      "text": "Bonne Nouvelle",
+      "size": 5,
+      "x": 23487.498000000003,
+      "y": -488706.233,
+      "longitude": 2.3487498,
+      "latitude": 48.8706233,
+      "visited": true
+    },
+    {
+      "id": 256897079,
+      "text": "Grands Boulevards",
+      "size": 5,
+      "x": 23434.952999999998,
+      "y": -488714.412,
+      "longitude": 2.3434953,
+      "latitude": 48.8714412,
+      "visited": true
+    },
+    {
+      "id": 256897080,
+      "text": "Richelieu Drouot",
+      "size": 5,
+      "x": 23396.056,
+      "y": -488718.846,
+      "longitude": 2.3396056,
+      "latitude": 48.8718846,
+      "visited": true
+    },
+    {
+      "id": 256897458,
+      "text": "Chaussée d'Antin - La Fayette",
+      "size": 5,
+      "x": 23332.567000000003,
+      "y": -488729.675,
+      "longitude": 2.3332567,
+      "latitude": 48.8729675,
+      "visited": true
+    },
+    {
+      "id": 256897554,
+      "text": "Saint-Augustin",
+      "size": 5,
+      "x": 23199.277000000002,
+      "y": -488746.96800000005,
+      "longitude": 2.3199277,
+      "latitude": 48.8746968,
+      "visited": true
+    },
+    {
+      "id": 260078615,
+      "text": "Cardinal Lemoine",
+      "size": 5,
+      "x": 23517.72,
+      "y": -488465.28300000005,
+      "longitude": 2.351772,
+      "latitude": 48.8465283,
+      "visited": true
+    },
+    {
+      "id": 260078619,
+      "text": "Maubert Mutualité",
+      "size": 5,
+      "x": 23487.756,
+      "y": -488499.484,
+      "longitude": 2.3487756,
+      "latitude": 48.8499484,
+      "visited": true
+    },
+    {
+      "id": 260078622,
+      "text": "Cluny - La Sorbonne",
+      "size": 5,
+      "x": 23442.07,
+      "y": -488510.69899999996,
+      "longitude": 2.344207,
+      "latitude": 48.8510699,
+      "visited": true
+    },
+    {
+      "id": 260079008,
+      "text": "Odéon",
+      "size": 5,
+      "x": 23393.369000000002,
+      "y": -488522.428,
+      "longitude": 2.3393369,
+      "latitude": 48.8522428,
+      "visited": true
+    },
+    {
+      "id": 260079322,
+      "text": "Mabillon",
+      "size": 5,
+      "x": 23349.474,
+      "y": -488528.994,
+      "longitude": 2.3349474,
+      "latitude": 48.8528994,
+      "visited": true
+    },
+    {
+      "id": 260231828,
+      "text": "Balard",
+      "size": 5,
+      "x": 22783.79,
+      "y": -488363.96800000005,
+      "longitude": 2.278379,
+      "latitude": 48.8363968,
+      "visited": true
+    },
+    {
+      "id": 260231831,
+      "text": "Lourmel",
+      "size": 5,
+      "x": 22821.481,
+      "y": -488387.364,
+      "longitude": 2.2821481,
+      "latitude": 48.8387364,
+      "visited": true
+    },
+    {
+      "id": 260231832,
+      "text": "Boucicaut",
+      "size": 5,
+      "x": 22879.218,
+      "y": -488410.837,
+      "longitude": 2.2879218,
+      "latitude": 48.8410837,
+      "visited": true
+    },
+    {
+      "id": 260231833,
+      "text": "Félix Faure",
+      "size": 5,
+      "x": 22917.792,
+      "y": -488426.775,
+      "longitude": 2.2917792,
+      "latitude": 48.8426775,
+      "visited": true
+    },
+    {
+      "id": 260762378,
+      "text": "Dugommier",
+      "size": 5,
+      "x": 23896.692000000003,
+      "y": -488390.472,
+      "longitude": 2.3896692,
+      "latitude": 48.8390472,
+      "visited": true
+    },
+    {
+      "id": 260762379,
+      "text": "Daumesnil",
+      "size": 5,
+      "x": 23959.529000000002,
+      "y": -488395.675,
+      "longitude": 2.3959529,
+      "latitude": 48.8395675,
+      "visited": true
+    },
+    {
+      "id": 260762540,
+      "text": "Bercy",
+      "size": 5,
+      "x": 23799.474,
+      "y": -488401.549,
+      "longitude": 2.3799474,
+      "latitude": 48.8401549,
+      "visited": true
+    },
+    {
+      "id": 260763474,
+      "text": "Edgar Quinet",
+      "size": 5,
+      "x": 23250.319,
+      "y": -488411.108,
+      "longitude": 2.3250319,
+      "latitude": 48.8411108,
+      "visited": true
+    },
+    {
+      "id": 260764273,
+      "text": "Pasteur",
+      "size": 5,
+      "x": 23126.058,
+      "y": -488429.21099999995,
+      "longitude": 2.3126058,
+      "latitude": 48.8429211,
+      "visited": true
+    },
+    {
+      "id": 260765385,
+      "text": "Kléber",
+      "size": 5,
+      "x": 22935.097999999998,
+      "y": -488716.76999999996,
+      "longitude": 2.2935098,
+      "latitude": 48.871677,
+      "visited": true
+    },
+    {
+      "id": 260765387,
+      "text": "Boissière",
+      "size": 5,
+      "x": 22900.825999999997,
+      "y": -488670.167,
+      "longitude": 2.2900826,
+      "latitude": 48.8670167,
+      "visited": true
+    },
+    {
+      "id": 260765390,
+      "text": "Passy",
+      "size": 5,
+      "x": 22857.780000000002,
+      "y": -488575.00899999996,
+      "longitude": 2.285778,
+      "latitude": 48.8575009,
+      "visited": true
+    },
+    {
+      "id": 260767422,
+      "text": "Iéna",
+      "size": 5,
+      "x": 22937.783,
+      "y": -488646.725,
+      "longitude": 2.2937783,
+      "latitude": 48.8646725,
+      "visited": true
+    },
+    {
+      "id": 260767423,
+      "text": "Rue de la Pompe",
+      "size": 5,
+      "x": 22780.859,
+      "y": -488640.063,
+      "longitude": 2.2780859,
+      "latitude": 48.8640063,
+      "visited": true
+    },
+    {
+      "id": 260767424,
+      "text": "La Muette",
+      "size": 5,
+      "x": 22741.958000000002,
+      "y": -488580.816,
+      "longitude": 2.2741958,
+      "latitude": 48.8580816,
+      "visited": true
+    },
+    {
+      "id": 260767425,
+      "text": "Ranelagh",
+      "size": 5,
+      "x": 22702.165999999997,
+      "y": -488555.76399999997,
+      "longitude": 2.2702166,
+      "latitude": 48.8555764,
+      "visited": true
+    },
+    {
+      "id": 260767426,
+      "text": "Jasmin",
+      "size": 5,
+      "x": 22681.802000000003,
+      "y": -488525.598,
+      "longitude": 2.2681802,
+      "latitude": 48.8525598,
+      "visited": true
+    },
+    {
+      "id": 260767427,
+      "text": "Michel-Ange - Auteuil",
+      "size": 5,
+      "x": 22641.344,
+      "y": -488479.434,
+      "longitude": 2.2641344,
+      "latitude": 48.8479434,
+      "visited": true
+    },
+    {
+      "id": 260767428,
+      "text": "Michel-Ange - Molitor",
+      "size": 5,
+      "x": 22618.95,
+      "y": -488452.434,
+      "longitude": 2.261895,
+      "latitude": 48.8452434,
+      "visited": true
+    },
+    {
+      "id": 260767429,
+      "text": "Exelmans",
+      "size": 5,
+      "x": 22600.471999999998,
+      "y": -488430.044,
+      "longitude": 2.2600472,
+      "latitude": 48.8430044,
+      "visited": true
+    },
+    {
+      "id": 260767430,
+      "text": "Porte de Saint-Cloud",
+      "size": 5,
+      "x": 22565.740999999998,
+      "y": -488377.707,
+      "longitude": 2.2565741,
+      "latitude": 48.8377707,
+      "visited": true
+    },
+    {
+      "id": 260769132,
+      "text": "Alma-Marceau",
+      "size": 5,
+      "x": 23006.256,
+      "y": -488649.686,
+      "longitude": 2.3006256,
+      "latitude": 48.8649686,
+      "visited": true
+    },
+    {
+      "id": 260769651,
+      "text": "Saint-Philippe du Roule",
+      "size": 5,
+      "x": 23100.827,
+      "y": -488723.362,
+      "longitude": 2.3100827,
+      "latitude": 48.8723362,
+      "visited": true
+    },
+    {
+      "id": 260769652,
+      "text": "Miromesnil",
+      "size": 5,
+      "x": 23144.68,
+      "y": -488736.855,
+      "longitude": 2.314468,
+      "latitude": 48.8736855,
+      "visited": true
+    },
+    {
+      "id": 261162833,
+      "text": "Sèvres-Babylone",
+      "size": 5,
+      "x": 23269.335,
+      "y": -488513.77999999997,
+      "longitude": 2.3269335,
+      "latitude": 48.851378,
+      "visited": true
+    },
+    {
+      "id": 261611470,
+      "text": "Mairie de Clichy",
+      "size": 5,
+      "x": 23059.878999999997,
+      "y": -489032.27800000005,
+      "longitude": 2.3059879,
+      "latitude": 48.9032278,
+      "visited": true
+    },
+    {
+      "id": 261611884,
+      "text": "Brochant",
+      "size": 5,
+      "x": 23202.055,
+      "y": -488905.558,
+      "longitude": 2.3202055,
+      "latitude": 48.8905558,
+      "visited": true
+    },
+    {
+      "id": 261612240,
+      "text": "La Fourche",
+      "size": 5,
+      "x": 23257.791999999998,
+      "y": -488871.728,
+      "longitude": 2.3257792,
+      "latitude": 48.8871728,
+      "visited": true
+    },
+    {
+      "id": 261665825,
+      "text": "Ségur",
+      "size": 5,
+      "x": 23074.897,
+      "y": -488470.114,
+      "longitude": 2.3074897,
+      "latitude": 48.8470114,
+      "visited": true
+    },
+    {
+      "id": 261666122,
+      "text": "Avenue Émile Zola",
+      "size": 5,
+      "x": 22953.191,
+      "y": -488470.132,
+      "longitude": 2.2953191,
+      "latitude": 48.8470132,
+      "visited": true
+    },
+    {
+      "id": 263497271,
+      "text": "Assemblée Nationale",
+      "size": 5,
+      "x": 23210.551000000003,
+      "y": -488606.97000000003,
+      "longitude": 2.3210551,
+      "latitude": 48.860697,
+      "visited": true
+    },
+    {
+      "id": 263497272,
+      "text": "Solférino",
+      "size": 5,
+      "x": 23230.255999999998,
+      "y": -488586.528,
+      "longitude": 2.3230256,
+      "latitude": 48.8586528,
+      "visited": true
+    },
+    {
+      "id": 263499468,
+      "text": "Rennes",
+      "size": 5,
+      "x": 23278.803,
+      "y": -488481.093,
+      "longitude": 2.3278803,
+      "latitude": 48.8481093,
+      "visited": true
+    },
+    {
+      "id": 263499471,
+      "text": "Notre-Dame des Champs",
+      "size": 5,
+      "x": 23286.803,
+      "y": -488452.749,
+      "longitude": 2.3286803,
+      "latitude": 48.8452749,
+      "visited": true
+    },
+    {
+      "id": 263917856,
+      "text": "Concorde",
+      "size": 5,
+      "x": 23227.573,
+      "y": -488656.344,
+      "longitude": 2.3227573,
+      "latitude": 48.8656344,
+      "visited": true
+    },
+    {
+      "id": 264117312,
+      "text": "Madeleine",
+      "size": 5,
+      "x": 23251.705,
+      "y": -488694.436,
+      "longitude": 2.3251705,
+      "latitude": 48.8694436,
+      "visited": true
+    },
+    {
+      "id": 264469160,
+      "text": "Commerce",
+      "size": 5,
+      "x": 22938.486,
+      "y": -488446.75700000004,
+      "longitude": 2.2938486,
+      "latitude": 48.8446757,
+      "visited": true
+    },
+    {
+      "id": 264469541,
+      "text": "École Militaire",
+      "size": 5,
+      "x": 23060.728,
+      "y": -488546.647,
+      "longitude": 2.3060728,
+      "latitude": 48.8546647,
+      "visited": true
+    },
+    {
+      "id": 264473011,
+      "text": "La Tour Maubourg",
+      "size": 5,
+      "x": 23103.234,
+      "y": -488575.602,
+      "longitude": 2.3103234,
+      "latitude": 48.8575602,
+      "visited": true
+    },
+    {
+      "id": 264473695,
+      "text": "Invalides",
+      "size": 5,
+      "x": 23139.121,
+      "y": -488618.01300000004,
+      "longitude": 2.3139121,
+      "latitude": 48.8618013,
+      "visited": true
+    },
+    {
+      "id": 264476971,
+      "text": "Filles du Calvaire",
+      "size": 5,
+      "x": 23666.124000000003,
+      "y": -488633.194,
+      "longitude": 2.3666124,
+      "latitude": 48.8633194,
+      "visited": true
+    },
+    {
+      "id": 264479724,
+      "text": "Saint-Sébastien - Froissart",
+      "size": 5,
+      "x": 23672.266999999996,
+      "y": -488610.965,
+      "longitude": 2.3672267,
+      "latitude": 48.8610965,
+      "visited": true
+    },
+    {
+      "id": 264479775,
+      "text": "Chemin Vert",
+      "size": 5,
+      "x": 23681.089000000004,
+      "y": -488574.497,
+      "longitude": 2.3681089,
+      "latitude": 48.8574497,
+      "visited": true
+    },
+    {
+      "id": 264480619,
+      "text": "Bastille",
+      "size": 5,
+      "x": 23684.891,
+      "y": -488531.864,
+      "longitude": 2.3684891,
+      "latitude": 48.8531864,
+      "visited": true
+    },
+    {
+      "id": 264480784,
+      "text": "Ledru-Rollin",
+      "size": 5,
+      "x": 23760.273999999998,
+      "y": -488512.945,
+      "longitude": 2.3760274,
+      "latitude": 48.8512945,
+      "visited": true
+    },
+    {
+      "id": 264481019,
+      "text": "Faidherbe — Chaligny",
+      "size": 5,
+      "x": 23842.221999999998,
+      "y": -488501.609,
+      "longitude": 2.3842222,
+      "latitude": 48.8501609,
+      "visited": true
+    },
+    {
+      "id": 264481854,
+      "text": "Montgallet",
+      "size": 5,
+      "x": 23901.962,
+      "y": -488443.04000000004,
+      "longitude": 2.3901962,
+      "latitude": 48.844304,
+      "visited": true
+    },
+    {
+      "id": 264482226,
+      "text": "Michel Bizot",
+      "size": 5,
+      "x": 24024.586,
+      "y": -488370.69399999996,
+      "longitude": 2.4024586,
+      "latitude": 48.8370694,
+      "visited": true
+    },
+    {
+      "id": 264482296,
+      "text": "Liberté",
+      "size": 5,
+      "x": 24062.01,
+      "y": -488264.064,
+      "longitude": 2.406201,
+      "latitude": 48.8264064,
+      "visited": true
+    },
+    {
+      "id": 264482297,
+      "text": "Porte Dorée",
+      "size": 5,
+      "x": 24061.775,
+      "y": -488352.765,
+      "longitude": 2.4061775,
+      "latitude": 48.8352765,
+      "visited": true
+    },
+    {
+      "id": 264490283,
+      "text": "Picpus",
+      "size": 5,
+      "x": 24010.8,
+      "y": -488450.75100000005,
+      "longitude": 2.40108,
+      "latitude": 48.8450751,
+      "visited": true
+    },
+    {
+      "id": 264491193,
+      "text": "Olympiades",
+      "size": 5,
+      "x": 23664.158,
+      "y": -488270.333,
+      "longitude": 2.3664158,
+      "latitude": 48.8270333,
+      "visited": true
+    },
+    {
+      "id": 264491320,
+      "text": "Porte de Charenton",
+      "size": 5,
+      "x": 23990.408,
+      "y": -488322.315,
+      "longitude": 2.3990408,
+      "latitude": 48.8322315,
+      "visited": true
+    },
+    {
+      "id": 264494507,
+      "text": "Pyramides",
+      "size": 5,
+      "x": 23344.261,
+      "y": -488657.58900000004,
+      "longitude": 2.3344261,
+      "latitude": 48.8657589,
+      "visited": true
+    },
+    {
+      "id": 264495077,
+      "text": "Trinité d'Estienne d'Orves",
+      "size": 5,
+      "x": 23326.414999999997,
+      "y": -488763.25100000005,
+      "longitude": 2.3326415,
+      "latitude": 48.8763251,
+      "visited": true
+    },
+    {
+      "id": 264495078,
+      "text": "Notre-Dame de Lorette",
+      "size": 5,
+      "x": 23385.436999999998,
+      "y": -488759.935,
+      "longitude": 2.3385437,
+      "latitude": 48.8759935,
+      "visited": true
+    },
+    {
+      "id": 264495553,
+      "text": "Rue du Bac",
+      "size": 5,
+      "x": 23256.659000000003,
+      "y": -488557.24100000004,
+      "longitude": 2.3256659,
+      "latitude": 48.8557241,
+      "visited": true
+    },
+    {
+      "id": 264504832,
+      "text": "Saint-Georges",
+      "size": 5,
+      "x": 23374.579999999998,
+      "y": -488784.469,
+      "longitude": 2.337458,
+      "latitude": 48.8784469,
+      "visited": true
+    },
+    {
+      "id": 264505115,
+      "text": "Abbesses",
+      "size": 5,
+      "x": 23379.294,
+      "y": -488845.67699999997,
+      "longitude": 2.3379294,
+      "latitude": 48.8845677,
+      "visited": true
+    },
+    {
+      "id": 264505153,
+      "text": "Lamarck - Caulaincourt",
+      "size": 5,
+      "x": 23388.254,
+      "y": -488897.543,
+      "longitude": 2.3388254,
+      "latitude": 48.8897543,
+      "visited": true
+    },
+    {
+      "id": 264505450,
+      "text": "Jules Joffrin",
+      "size": 5,
+      "x": 23446.394,
+      "y": -488924.62799999997,
+      "longitude": 2.3446394,
+      "latitude": 48.8924628,
+      "visited": true
+    },
+    {
+      "id": 264505930,
+      "text": "Porte de la Chapelle",
+      "size": 5,
+      "x": 23594.563000000002,
+      "y": -488977.035,
+      "longitude": 2.3594563,
+      "latitude": 48.8977035,
+      "visited": true
+    },
+    {
+      "id": 264505993,
+      "text": "Simplon",
+      "size": 5,
+      "x": 23478.412,
+      "y": -488938.48099999997,
+      "longitude": 2.3478412,
+      "latitude": 48.8938481,
+      "visited": true
+    },
+    {
+      "id": 264508125,
+      "text": "Gare du Nord (métro)",
+      "size": 5,
+      "x": 23572.847999999998,
+      "y": -488795.066,
+      "longitude": 2.3572848,
+      "latitude": 48.8795066,
+      "visited": true
+    },
+    {
+      "id": 264508548,
+      "text": "Gare de l'Est",
+      "size": 5,
+      "x": 23579.127,
+      "y": -488762.027,
+      "longitude": 2.3579127,
+      "latitude": 48.8762027,
+      "visited": true
+    },
+    {
+      "id": 264509793,
+      "text": "Étienne Marcel",
+      "size": 5,
+      "x": 23498.703,
+      "y": -488640.323,
+      "longitude": 2.3498703,
+      "latitude": 48.8640323,
+      "visited": true
+    },
+    {
+      "id": 264512252,
+      "text": "Château d'Eau",
+      "size": 5,
+      "x": 23563.063,
+      "y": -488728.919,
+      "longitude": 2.3563063,
+      "latitude": 48.8728919,
+      "visited": true
+    },
+    {
+      "id": 264513655,
+      "text": "Les Halles",
+      "size": 5,
+      "x": 23457.954,
+      "y": -488625.356,
+      "longitude": 2.3457954,
+      "latitude": 48.8625356,
+      "visited": true
+    },
+    {
+      "id": 264514896,
+      "text": "Cité",
+      "size": 5,
+      "x": 23475.476,
+      "y": -488552.968,
+      "longitude": 2.3475476,
+      "latitude": 48.8552968,
+      "visited": true
+    },
+    {
+      "id": 264515098,
+      "text": "Saint-Michel",
+      "size": 5,
+      "x": 23435.309,
+      "y": -488533.01399999997,
+      "longitude": 2.3435309,
+      "latitude": 48.8533014,
+      "visited": true
+    },
+    {
+      "id": 264519782,
+      "text": "Saint-Germain-des-Prés",
+      "size": 5,
+      "x": 23344.604000000003,
+      "y": -488536.37999999995,
+      "longitude": 2.3344604,
+      "latitude": 48.853638,
+      "visited": true
+    },
+    {
+      "id": 264520061,
+      "text": "Saint-Placide",
+      "size": 5,
+      "x": 23270.285999999996,
+      "y": -488471.196,
+      "longitude": 2.3270286,
+      "latitude": 48.8471196,
+      "visited": true
+    },
+    {
+      "id": 264526095,
+      "text": "Vavin",
+      "size": 5,
+      "x": 23290.114,
+      "y": -488422.164,
+      "longitude": 2.3290114,
+      "latitude": 48.8422164,
+      "visited": true
+    },
+    {
+      "id": 264534423,
+      "text": "Charles Michels",
+      "size": 5,
+      "x": 22858.801,
+      "y": -488465.262,
+      "longitude": 2.2858801,
+      "latitude": 48.8465262,
+      "visited": true
+    },
+    {
+      "id": 264534424,
+      "text": "Javel - André Citroën",
+      "size": 5,
+      "x": 22783.035,
+      "y": -488461.584,
+      "longitude": 2.2783035,
+      "latitude": 48.8461584,
+      "visited": true
+    },
+    {
+      "id": 264534683,
+      "text": "Église d'Auteuil",
+      "size": 5,
+      "x": 22686.929,
+      "y": -488473.406,
+      "longitude": 2.2686929,
+      "latitude": 48.8473406
+    },
+    {
+      "id": 264535735,
+      "text": "Porte d'Auteuil",
+      "size": 5,
+      "x": 22586.493000000002,
+      "y": -488479.478,
+      "longitude": 2.2586493,
+      "latitude": 48.8479478
+    },
+    {
+      "id": 264537727,
+      "text": "Chardon Lagache",
+      "size": 5,
+      "x": 22671.72,
+      "y": -488454.13999999996,
+      "longitude": 2.267172,
+      "latitude": 48.845414,
+      "visited": true
+    },
+    {
+      "id": 264538576,
+      "text": "Mirabeau",
+      "size": 5,
+      "x": 22717.155,
+      "y": -488468.03800000006,
+      "longitude": 2.2717155,
+      "latitude": 48.8468038,
+      "visited": true
+    },
+    {
+      "id": 264539964,
+      "text": "Boulogne - Jean Jaurès",
+      "size": 5,
+      "x": 22387.42,
+      "y": -488419.77999999997,
+      "longitude": 2.238742,
+      "latitude": 48.841978,
+      "visited": true
+    },
+    {
+      "id": 264541617,
+      "text": "Boulogne - Pont de Saint-Cloud",
+      "size": 5,
+      "x": 22285.445,
+      "y": -488407.44899999996,
+      "longitude": 2.2285445,
+      "latitude": 48.8407449,
+      "visited": true
+    },
+    {
+      "id": 264591604,
+      "text": "Goncourt",
+      "size": 5,
+      "x": 23710.844999999998,
+      "y": -488699.553,
+      "longitude": 2.3710845,
+      "latitude": 48.8699553,
+      "visited": true
+    },
+    {
+      "id": 264592424,
+      "text": "Rambuteau",
+      "size": 5,
+      "x": 23538.089000000004,
+      "y": -488617.782,
+      "longitude": 2.3538089,
+      "latitude": 48.8617782,
+      "visited": true
+    },
+    {
+      "id": 264690370,
+      "text": "Télégraphe",
+      "size": 5,
+      "x": 23990.509000000002,
+      "y": -488755.03799999994,
+      "longitude": 2.3990509,
+      "latitude": 48.8755038,
+      "visited": true
+    },
+    {
+      "id": 264690372,
+      "text": "Pyrénées",
+      "size": 5,
+      "x": 23852.638000000003,
+      "y": -488738.565,
+      "longitude": 2.3852638,
+      "latitude": 48.8738565,
+      "visited": true
+    },
+    {
+      "id": 264692522,
+      "text": "Jourdain",
+      "size": 5,
+      "x": 23893.555,
+      "y": -488750.83400000003,
+      "longitude": 2.3893555,
+      "latitude": 48.8750834,
+      "visited": true
+    },
+    {
+      "id": 264704365,
+      "text": "Gaîté",
+      "size": 5,
+      "x": 23224.865999999998,
+      "y": -488386.332,
+      "longitude": 2.3224866,
+      "latitude": 48.8386332,
+      "visited": true
+    },
+    {
+      "id": 264712432,
+      "text": "Plaisance",
+      "size": 5,
+      "x": 23140.252,
+      "y": -488317.799,
+      "longitude": 2.3140252,
+      "latitude": 48.8317799,
+      "visited": true
+    },
+    {
+      "id": 264712433,
+      "text": "Pernety",
+      "size": 5,
+      "x": 23180.764,
+      "y": -488339.551,
+      "longitude": 2.3180764,
+      "latitude": 48.8339551,
+      "visited": true
+    },
+    {
+      "id": 264717964,
+      "text": "Malakoff - Plateau de Vanves",
+      "size": 5,
+      "x": 22984.833,
+      "y": -488225.032,
+      "longitude": 2.2984833,
+      "latitude": 48.8225032,
+      "visited": true
+    },
+    {
+      "id": 264769296,
+      "text": "Bréguet-Sabin",
+      "size": 5,
+      "x": 23704.333000000002,
+      "y": -488566.333,
+      "longitude": 2.3704333,
+      "latitude": 48.8566333,
+      "visited": true
+    },
+    {
+      "id": 264769297,
+      "text": "Richard Lenoir",
+      "size": 5,
+      "x": 23720.740999999998,
+      "y": -488602.134,
+      "longitude": 2.3720741,
+      "latitude": 48.8602134,
+      "visited": true
+    },
+    {
+      "id": 264772256,
+      "text": "Laumière",
+      "size": 5,
+      "x": 23794.612,
+      "y": -488851.63300000003,
+      "longitude": 2.3794612,
+      "latitude": 48.8851633,
+      "visited": true
+    },
+    {
+      "id": 264772371,
+      "text": "Ourcq",
+      "size": 5,
+      "x": 23866.783,
+      "y": -488870.60599999997,
+      "longitude": 2.3866783,
+      "latitude": 48.8870606,
+      "visited": true
+    },
+    {
+      "id": 264772861,
+      "text": "Porte de Pantin",
+      "size": 5,
+      "x": 23926.737999999998,
+      "y": -488886.492,
+      "longitude": 2.3926738,
+      "latitude": 48.8886492,
+      "visited": true
+    },
+    {
+      "id": 264772862,
+      "text": "Hoche",
+      "size": 5,
+      "x": 24025.382999999998,
+      "y": -488912.80000000005,
+      "longitude": 2.4025383,
+      "latitude": 48.89128,
+      "visited": true
+    },
+    {
+      "id": 264775552,
+      "text": "Louis Blanc",
+      "size": 5,
+      "x": 23659.214999999997,
+      "y": -488815.852,
+      "longitude": 2.3659215,
+      "latitude": 48.8815852,
+      "visited": true
+    },
+    {
+      "id": 264775805,
+      "text": "Poissonnière",
+      "size": 5,
+      "x": 23493.387000000002,
+      "y": -488772.374,
+      "longitude": 2.3493387,
+      "latitude": 48.8772374,
+      "visited": true
+    },
+    {
+      "id": 264776028,
+      "text": "Riquet",
+      "size": 5,
+      "x": 23742.226,
+      "y": -488884.81200000003,
+      "longitude": 2.3742226,
+      "latitude": 48.8884812,
+      "visited": true
+    },
+    {
+      "id": 264776029,
+      "text": "Crimée",
+      "size": 5,
+      "x": 23773.681,
+      "y": -488908.51300000004,
+      "longitude": 2.3773681,
+      "latitude": 48.8908513,
+      "visited": true
+    },
+    {
+      "id": 264776910,
+      "text": "Corentin Cariou",
+      "size": 5,
+      "x": 23823.046,
+      "y": -488947.282,
+      "longitude": 2.3823046,
+      "latitude": 48.8947282,
+      "visited": true
+    },
+    {
+      "id": 264778142,
+      "text": "Porte de la Villette",
+      "size": 5,
+      "x": 23855.909999999996,
+      "y": -488974.039,
+      "longitude": 2.385591,
+      "latitude": 48.8974039,
+      "visited": true
+    },
+    {
+      "id": 264780946,
+      "text": "Le Peletier",
+      "size": 5,
+      "x": 23403.64,
+      "y": -488749.27999999997,
+      "longitude": 2.340364,
+      "latitude": 48.874928,
+      "visited": true
+    },
+    {
+      "id": 264780947,
+      "text": "Cadet",
+      "size": 5,
+      "x": 23443.098,
+      "y": -488759.424,
+      "longitude": 2.3443098,
+      "latitude": 48.8759424,
+      "visited": true
+    },
+    {
+      "id": 264784170,
+      "text": "Pont Neuf",
+      "size": 5,
+      "x": 23422.603,
+      "y": -488585.528,
+      "longitude": 2.3422603,
+      "latitude": 48.8585528,
+      "visited": true
+    },
+    {
+      "id": 264785951,
+      "text": "Sully - Morland",
+      "size": 5,
+      "x": 23618.174,
+      "y": -488513.954,
+      "longitude": 2.3618174,
+      "latitude": 48.8513954,
+      "visited": true
+    },
+    {
+      "id": 264785952,
+      "text": "Pont Marie",
+      "size": 5,
+      "x": 23565.905,
+      "y": -488537.872,
+      "longitude": 2.3565905,
+      "latitude": 48.8537872,
+      "visited": true
+    },
+    {
+      "id": 264786014,
+      "text": "Place Monge",
+      "size": 5,
+      "x": 23522.772,
+      "y": -488429.05299999996,
+      "longitude": 2.3522772,
+      "latitude": 48.8429053,
+      "visited": true
+    },
+    {
+      "id": 264789025,
+      "text": "Censier - Daubenton",
+      "size": 5,
+      "x": 23519.334,
+      "y": -488406.473,
+      "longitude": 2.3519334,
+      "latitude": 48.8406473,
+      "visited": true
+    },
+    {
+      "id": 264790337,
+      "text": "Les Gobelins",
+      "size": 5,
+      "x": 23527.513,
+      "y": -488356.445,
+      "longitude": 2.3527513,
+      "latitude": 48.8356445,
+      "visited": true
+    },
+    {
+      "id": 264794353,
+      "text": "Pré Saint-Gervais",
+      "size": 5,
+      "x": 23990.632,
+      "y": -488799.345,
+      "longitude": 2.3990632,
+      "latitude": 48.8799345
+    },
+    {
+      "id": 264794354,
+      "text": "Danube",
+      "size": 5,
+      "x": 23933.608,
+      "y": -488819.444,
+      "longitude": 2.3933608,
+      "latitude": 48.8819444
+    },
+    {
+      "id": 264795933,
+      "text": "Mairie des Lilas",
+      "size": 5,
+      "x": 24164.716999999997,
+      "y": -488797.602,
+      "longitude": 2.4164717,
+      "latitude": 48.8797602,
+      "visited": true
+    },
+    {
+      "id": 264796181,
+      "text": "Saint-Fargeau",
+      "size": 5,
+      "x": 24043.104,
+      "y": -488715.218,
+      "longitude": 2.4043104,
+      "latitude": 48.8715218
+    },
+    {
+      "id": 264796182,
+      "text": "Pelleport",
+      "size": 5,
+      "x": 24013.152,
+      "y": -488680.99700000003,
+      "longitude": 2.4013152,
+      "latitude": 48.8680997
+    },
+    {
+      "id": 265055434,
+      "text": "Saint-Marcel",
+      "size": 5,
+      "x": 23608.490999999998,
+      "y": -488382.761,
+      "longitude": 2.3608491,
+      "latitude": 48.8382761,
+      "visited": true
+    },
+    {
+      "id": 265055750,
+      "text": "Campo-Formio",
+      "size": 5,
+      "x": 23589.273,
+      "y": -488356.545,
+      "longitude": 2.3589273,
+      "latitude": 48.8356545,
+      "visited": true
+    },
+    {
+      "id": 265060052,
+      "text": "Guy Môquet",
+      "size": 5,
+      "x": 23273.95,
+      "y": -488927.063,
+      "longitude": 2.327395,
+      "latitude": 48.8927063,
+      "visited": true
+    },
+    {
+      "id": 265060832,
+      "text": "Porte de Saint-Ouen",
+      "size": 5,
+      "x": 23289.008,
+      "y": -488973.71499999997,
+      "longitude": 2.3289008,
+      "latitude": 48.8973715,
+      "visited": true
+    },
+    {
+      "id": 265060965,
+      "text": "Garibaldi",
+      "size": 5,
+      "x": 23318.71,
+      "y": -489062.04000000004,
+      "longitude": 2.331871,
+      "latitude": 48.906204,
+      "visited": true
+    },
+    {
+      "id": 268467197,
+      "text": "Tolbiac",
+      "size": 5,
+      "x": 23573.504999999997,
+      "y": -488260.904,
+      "longitude": 2.3573505,
+      "latitude": 48.8260904,
+      "visited": true
+    },
+    {
+      "id": 268467526,
+      "text": "Maison Blanche",
+      "size": 5,
+      "x": 23585.04,
+      "y": -488224.745,
+      "longitude": 2.358504,
+      "latitude": 48.8224745,
+      "visited": true
+    },
+    {
+      "id": 268467559,
+      "text": "Porte d'Italie",
+      "size": 5,
+      "x": 23595.329999999998,
+      "y": -488190.866,
+      "longitude": 2.359533,
+      "latitude": 48.8190866,
+      "visited": true
+    },
+    {
+      "id": 269337980,
+      "text": "Les Agnettes",
+      "size": 5,
+      "x": 22862.019,
+      "y": -489231.172,
+      "longitude": 2.2862019,
+      "latitude": 48.9231172,
+      "visited": true
+    },
+    {
+      "id": 269337982,
+      "text": "Asnières – Gennevilliers – Les Courtilles",
+      "size": 5,
+      "x": 22841.827,
+      "y": -489307.562,
+      "longitude": 2.2841827,
+      "latitude": 48.9307562,
+      "visited": true
+    },
+    {
+      "id": 270244435,
+      "text": "Fort d'Aubervilliers",
+      "size": 5,
+      "x": 24038.072,
+      "y": -489142.57300000003,
+      "longitude": 2.4038072,
+      "latitude": 48.9142573,
+      "visited": true
+    },
+    {
+      "id": 270244436,
+      "text": "Aubervilliers - Pantin - Quatre Chemins",
+      "size": 5,
+      "x": 23922.499,
+      "y": -489036.279,
+      "longitude": 2.3922499,
+      "latitude": 48.9036279,
+      "visited": true
+    },
+    {
+      "id": 270244850,
+      "text": "La Courneuve - 8 mai 1945",
+      "size": 5,
+      "x": 24107.677,
+      "y": -489207.587,
+      "longitude": 2.4107677,
+      "latitude": 48.9207587,
+      "visited": true
+    },
+    {
+      "id": 282635141,
+      "text": "Champs-Élysées - Clemenceau",
+      "size": 5,
+      "x": 23138.853,
+      "y": -488678.01300000004,
+      "longitude": 2.3138853,
+      "latitude": 48.8678013,
+      "visited": true
+    },
+    {
+      "id": 300867961,
+      "text": "Créteil — L'Échat (Hôpital Henri Mondor)",
+      "size": 5,
+      "x": 24492.35,
+      "y": -487963.51399999997,
+      "longitude": 2.449235,
+      "latitude": 48.7963514,
+      "visited": true
+    },
+    {
+      "id": 300869611,
+      "text": "Créteil Université",
+      "size": 5,
+      "x": 24504.803,
+      "y": -487899.066,
+      "longitude": 2.4504803,
+      "latitude": 48.7899066,
+      "visited": true
+    },
+    {
+      "id": 300869641,
+      "text": "Créteil — Préfecture (Hôtel de Ville)",
+      "size": 5,
+      "x": 24594.504,
+      "y": -487797.55600000004,
+      "longitude": 2.4594504,
+      "latitude": 48.7797556,
+      "visited": true
+    },
+    {
+      "id": 300870184,
+      "text": "Maisons-Alfort — Les Juilliottes",
+      "size": 5,
+      "x": 24456.085,
+      "y": -488033.311,
+      "longitude": 2.4456085,
+      "latitude": 48.8033311,
+      "visited": true
+    },
+    {
+      "id": 300870186,
+      "text": "Maisons-Alfort — Stade",
+      "size": 5,
+      "x": 24347.211,
+      "y": -488090.371,
+      "longitude": 2.4347211,
+      "latitude": 48.8090371,
+      "visited": true
+    },
+    {
+      "id": 300876896,
+      "text": "École Vétérinaire de Maisons-Alfort",
+      "size": 5,
+      "x": 24217.316000000003,
+      "y": -488150.196,
+      "longitude": 2.4217316,
+      "latitude": 48.8150196,
+      "visited": true
+    },
+    {
+      "id": 300877457,
+      "text": "Charenton-Écoles",
+      "size": 5,
+      "x": 24137.829,
+      "y": -488215.61199999996,
+      "longitude": 2.4137829,
+      "latitude": 48.8215612,
+      "visited": true
+    },
+    {
+      "id": 313428413,
+      "text": "Mairie de Saint-Ouen",
+      "size": 5,
+      "x": 23339.027,
+      "y": -489119.254,
+      "longitude": 2.3339027,
+      "latitude": 48.9119254,
+      "visited": true
+    },
+    {
+      "id": 313430306,
+      "text": "Carrefour Pleyel",
+      "size": 5,
+      "x": 23433.012,
+      "y": -489195.75299999997,
+      "longitude": 2.3433012,
+      "latitude": 48.9195753,
+      "visited": true
+    },
+    {
+      "id": 318536832,
+      "text": "Villejuif - Léo Lagrange",
+      "size": 5,
+      "x": 23637.903,
+      "y": -488051.317,
+      "longitude": 2.3637903,
+      "latitude": 48.8051317
+    },
+    {
+      "id": 318536848,
+      "text": "Villejuif–Louis Aragon",
+      "size": 5,
+      "x": 23673.856999999996,
+      "y": -487869.40199999994,
+      "longitude": 2.3673857,
+      "latitude": 48.7869402
+    },
+    {
+      "id": 318536943,
+      "text": "Villejuif - Paul Vaillant Couturier",
+      "size": 5,
+      "x": 23683.672,
+      "y": -487960.87700000004,
+      "longitude": 2.3683672,
+      "latitude": 48.7960877
+    },
+    {
+      "id": 318537042,
+      "text": "Le Kremlin-Bicêtre",
+      "size": 5,
+      "x": 23622.359,
+      "y": -488103.27999999997,
+      "longitude": 2.3622359,
+      "latitude": 48.810328
+    },
+    {
+      "id": 324352448,
+      "text": "Saint-Sulpice",
+      "size": 5,
+      "x": 23307.247000000003,
+      "y": -488511.00600000005,
+      "longitude": 2.3307247,
+      "latitude": 48.8511006,
+      "visited": true
+    },
+    {
+      "id": 324363999,
+      "text": "Montparnasse-Bienvenüe",
+      "size": 5,
+      "x": 23242.652000000002,
+      "y": -488439.798,
+      "longitude": 2.3242652,
+      "latitude": 48.8439798,
+      "visited": true
+    },
+    {
+      "id": 326309672,
+      "text": "Château Landon",
+      "size": 5,
+      "x": 23624.611999999997,
+      "y": -488788.951,
+      "longitude": 2.3624612,
+      "latitude": 48.8788951,
+      "visited": true
+    },
+    {
+      "id": 330026020,
+      "text": "Église de Pantin",
+      "size": 5,
+      "x": 24133.106999999996,
+      "y": -488932.564,
+      "longitude": 2.4133107,
+      "latitude": 48.8932564,
+      "visited": true
+    },
+    {
+      "id": 331514770,
+      "text": "Liège",
+      "size": 5,
+      "x": 23270.241,
+      "y": -488796.03699999995,
+      "longitude": 2.3270241,
+      "latitude": 48.8796037,
+      "visited": true
+    },
+    {
+      "id": 331523267,
+      "text": "Saint-Denis Porte de Paris",
+      "size": 5,
+      "x": 23562.706000000002,
+      "y": -489300.243,
+      "longitude": 2.3562706,
+      "latitude": 48.9300243,
+      "visited": true
+    },
+    {
+      "id": 331524254,
+      "text": "Saint-Denis-Université",
+      "size": 5,
+      "x": 23645.665,
+      "y": -489458.48699999996,
+      "longitude": 2.3645665,
+      "latitude": 48.9458487,
+      "visited": true
+    },
+    {
+      "id": 338930214,
+      "text": "Bir-Hakeim",
+      "size": 5,
+      "x": 22893.959000000003,
+      "y": -488538.982,
+      "longitude": 2.2893959,
+      "latitude": 48.8538982,
+      "visited": true
+    },
+    {
+      "id": 355153536,
+      "text": "Billancourt",
+      "size": 5,
+      "x": 22373.655000000002,
+      "y": -488317.277,
+      "longitude": 2.2373655,
+      "latitude": 48.8317277,
+      "visited": true
+    },
+    {
+      "id": 370455978,
+      "text": "Pont de Sèvres",
+      "size": 5,
+      "x": 22308.732,
+      "y": -488296.61299999995,
+      "longitude": 2.2308732,
+      "latitude": 48.8296613,
+      "visited": true
+    },
+    {
+      "id": 472985883,
+      "text": "Porte de Choisy",
+      "size": 5,
+      "x": 23647.992000000002,
+      "y": -488201.08599999995,
+      "longitude": 2.3647992,
+      "latitude": 48.8201086
+    },
+    {
+      "id": 472985884,
+      "text": "Porte d'Ivry",
+      "size": 5,
+      "x": 23693.224000000002,
+      "y": -488216.697,
+      "longitude": 2.3693224,
+      "latitude": 48.8216697
+    },
+    {
+      "id": 472985885,
+      "text": "Pierre et Marie Curie",
+      "size": 5,
+      "x": 23773.455,
+      "y": -488159.011,
+      "longitude": 2.3773455,
+      "latitude": 48.8159011
+    },
+    {
+      "id": 472985886,
+      "text": "Mairie d'Ivry",
+      "size": 5,
+      "x": 23839.963000000003,
+      "y": -488109.896,
+      "longitude": 2.3839963,
+      "latitude": 48.8109896
+    },
+    {
+      "id": 473070143,
+      "text": "Vaneau",
+      "size": 5,
+      "x": 23218.877999999997,
+      "y": -488491.427,
+      "longitude": 2.3218878,
+      "latitude": 48.8491427,
+      "visited": true
+    },
+    {
+      "id": 634996117,
+      "text": "Saint-Lazare",
+      "size": 5,
+      "x": 23278.994000000002,
+      "y": -488757.002,
+      "longitude": 2.3278994,
+      "latitude": 48.8757002,
+      "visited": true
+    },
+    {
+      "id": 838533003,
+      "text": "Ternes",
+      "size": 5,
+      "x": 22990.808,
+      "y": -488782.743,
+      "longitude": 2.2990808,
+      "latitude": 48.8782743,
+      "visited": true
+    },
+    {
+      "id": 928458344,
+      "text": "Créteil — Pointe du Lac",
+      "size": 5,
+      "x": 24643.844,
+      "y": -487687.211,
+      "longitude": 2.4643844,
+      "latitude": 48.7687211,
+      "visited": true
+    },
+    {
+      "id": 1480535477,
+      "text": "Barbès - Rochechouart",
+      "size": 5,
+      "x": 23496.271,
+      "y": -488837.69700000004,
+      "longitude": 2.3496271,
+      "latitude": 48.8837697,
+      "visited": true
+    },
+    {
+      "id": 1481147746,
+      "text": "Marcadet - Poissonniers",
+      "size": 5,
+      "x": 23497.296,
+      "y": -488914.837,
+      "longitude": 2.3497296,
+      "latitude": 48.8914837,
+      "visited": true
+    },
+    {
+      "id": 1489806669,
+      "text": "Concorde",
+      "size": 5,
+      "x": 23218.526,
+      "y": -488665.11699999997,
+      "longitude": 2.3218526,
+      "latitude": 48.8665117,
+      "visited": true
+    },
+    {
+      "id": 1489806675,
+      "text": "Invalides",
+      "size": 5,
+      "x": 23148.872,
+      "y": -488603.93,
+      "longitude": 2.3148872,
+      "latitude": 48.860393,
+      "visited": true
+    },
+    {
+      "id": 1584432760,
+      "text": "Bastille",
+      "size": 5,
+      "x": 23691.871,
+      "y": -488536.788,
+      "longitude": 2.3691871,
+      "latitude": 48.8536788,
+      "visited": true
+    },
+    {
+      "id": 1656938775,
+      "text": "Gare de Lyon",
+      "size": 5,
+      "x": 23740.091,
+      "y": -488434.42699999997,
+      "longitude": 2.3740091,
+      "latitude": 48.8434427,
+      "visited": true
+    },
+    {
+      "id": 1659843199,
+      "text": "Sèvres-Lecourbe",
+      "size": 5,
+      "x": 23095.848,
+      "y": -488456.16300000006,
+      "longitude": 2.3095848,
+      "latitude": 48.8456163,
+      "visited": true
+    },
+    {
+      "id": 1771632724,
+      "text": "Bobigny - Pablo Picasso",
+      "size": 5,
+      "x": 24491.919,
+      "y": -489064.052,
+      "longitude": 2.4491919,
+      "latitude": 48.9064052,
+      "visited": true
+    },
+    {
+      "id": 1780486821,
+      "text": "Porte de Clignancourt",
+      "size": 5,
+      "x": 23448.521,
+      "y": -488973.97599999997,
+      "longitude": 2.3448521,
+      "latitude": 48.8973976,
+      "visited": true
+    },
+    {
+      "id": 1805529567,
+      "text": "Montparnasse-Bienvenüe",
+      "size": 5,
+      "x": 23210.739999999998,
+      "y": -488421.016,
+      "longitude": 2.321074,
+      "latitude": 48.8421016,
+      "visited": true
+    },
+    {
+      "id": 1981222779,
+      "text": "Europe",
+      "size": 5,
+      "x": 23222.643,
+      "y": -488787.67600000004,
+      "longitude": 2.3222643,
+      "latitude": 48.8787676
+    },
+    {
+      "id": 1997722983,
+      "text": "Botzaris",
+      "size": 5,
+      "x": 23885.838,
+      "y": -488794.922,
+      "longitude": 2.3885838,
+      "latitude": 48.8794922
+    },
+    {
+      "id": 1997722992,
+      "text": "Jaurès",
+      "size": 5,
+      "x": 23703.263,
+      "y": -488825.949,
+      "longitude": 2.3703263,
+      "latitude": 48.8825949,
+      "visited": true
+    },
+    {
+      "id": 2023231831,
+      "text": "Porte de Vanves",
+      "size": 5,
+      "x": 23054.796,
+      "y": -488276.75999999995,
+      "longitude": 2.3054796,
+      "latitude": 48.827676,
+      "visited": true
+    },
+    {
+      "id": 2066461402,
+      "text": "Place des Fêtes",
+      "size": 5,
+      "x": 23935.636,
+      "y": -488767.737,
+      "longitude": 2.3935636,
+      "latitude": 48.8767737,
+      "visited": true
+    },
+    {
+      "id": 2066488458,
+      "text": "Courcelles",
+      "size": 5,
+      "x": 23043.746,
+      "y": -488793.962,
+      "longitude": 2.3043746,
+      "latitude": 48.8793962,
+      "visited": true
+    },
+    {
+      "id": 2075532859,
+      "text": "Front Populaire",
+      "size": 5,
+      "x": 23659.162999999997,
+      "y": -489065.634,
+      "longitude": 2.3659163,
+      "latitude": 48.9065634,
+      "visited": true
+    },
+    {
+      "id": 2188235051,
+      "text": "Mairie de Montrouge",
+      "size": 5,
+      "x": 23195.203,
+      "y": -488182.33999999997,
+      "longitude": 2.3195203,
+      "latitude": 48.818234,
+      "visited": true
+    },
+    {
+      "id": 2490099593,
+      "text": "Bobigny-Pantin (Raymond Queneau)",
+      "size": 5,
+      "x": 24251.929,
+      "y": -488954.338,
+      "longitude": 2.4251929,
+      "latitude": 48.8954338,
+      "visited": true
+    },
+    {
+      "id": 2493410447,
+      "text": "Porte Maillot",
+      "size": 5,
+      "x": 22817.745,
+      "y": -488779.888,
+      "longitude": 2.2817745,
+      "latitude": 48.8779888,
+      "visited": true
+    },
+    {
+      "id": 3146958064,
+      "text": "Cour Saint-Émilion",
+      "size": 5,
+      "x": 23859.541,
+      "y": -488335.481,
+      "longitude": 2.3859541,
+      "latitude": 48.8335481,
+      "visited": true
+    },
+    {
+      "id": 3148750837,
+      "text": "Pont de Neuilly",
+      "size": 5,
+      "x": 22596.365999999998,
+      "y": -488849.78500000003,
+      "longitude": 2.2596366,
+      "latitude": 48.8849785,
+      "visited": true
+    },
+    {
+      "id": 3164606077,
+      "text": "Châtelet",
+      "size": 5,
+      "x": 23483.592,
+      "y": -488568.781,
+      "longitude": 2.3483592,
+      "latitude": 48.8568781,
+      "visited": true
+    },
+    {
+      "id": 3164606078,
+      "text": "Châtelet",
+      "size": 5,
+      "x": 23463.143999999997,
+      "y": -488602.293,
+      "longitude": 2.3463144,
+      "latitude": 48.8602293,
+      "visited": true
+    },
+    {
+      "id": 3164606088,
+      "text": "Châtelet",
+      "size": 5,
+      "x": 23474.541,
+      "y": -488578.13999999996,
+      "longitude": 2.3474541,
+      "latitude": 48.857814,
+      "visited": true
+    },
+    {
+      "id": 3175323853,
+      "text": "Châtelet",
+      "size": 5,
+      "x": 23460.681,
+      "y": -488592.004,
+      "longitude": 2.3460681,
+      "latitude": 48.8592004,
+      "visited": true
+    },
+    {
+      "id": 3417692493,
+      "text": "Anvers",
+      "size": 5,
+      "x": 23442.565000000002,
+      "y": -488828.80299999996,
+      "longitude": 2.3442565,
+      "latitude": 48.8828803
+    },
+    {
+      "id": 3417692501,
+      "text": "La Chapelle",
+      "size": 5,
+      "x": 23603.057,
+      "y": -488844.068,
+      "longitude": 2.3603057,
+      "latitude": 48.8844068
+    },
+    {
+      "id": 3419908162,
+      "text": "Gare d'Austerlitz",
+      "size": 5,
+      "x": 23655.228,
+      "y": -488423.613,
+      "longitude": 2.3655228,
+      "latitude": 48.8423613,
+      "visited": true
+    },
+    {
+      "id": 3419908163,
+      "text": "Gare d'Austerlitz",
+      "size": 5,
+      "x": 23656.609999999997,
+      "y": -488423.729,
+      "longitude": 2.365661,
+      "latitude": 48.8423729
+    },
+    {
+      "id": 3419908164,
+      "text": "Quai de la Rapée",
+      "size": 5,
+      "x": 23658.953,
+      "y": -488464.943,
+      "longitude": 2.3658953,
+      "latitude": 48.8464943
+    },
+    {
+      "id": 3430515272,
+      "text": "Sentier",
+      "size": 5,
+      "x": 23455.641,
+      "y": -488677.21099999995,
+      "longitude": 2.3455641,
+      "latitude": 48.8677211
+    },
+    {
+      "id": 3493828793,
+      "text": "Gare d'Austerlitz",
+      "size": 5,
+      "x": 23656.105,
+      "y": -488423.727,
+      "longitude": 2.3656105,
+      "latitude": 48.8423727
+    },
+    {
+      "id": 3542631493,
+      "text": "Saint-Lazare",
+      "size": 5,
+      "x": 23253.610999999997,
+      "y": -488756.56999999995,
+      "longitude": 2.3253611,
+      "latitude": 48.875657,
+      "visited": true
+    },
+    {
+      "id": 3703619694,
+      "text": "Hôtel de Ville",
+      "size": 5,
+      "x": 23520.682,
+      "y": -488573.616,
+      "longitude": 2.3520682,
+      "latitude": 48.8573616,
+      "visited": true
+    },
+    {
+      "id": 3703620036,
+      "text": "Victor Hugo",
+      "size": 5,
+      "x": 22860.385000000002,
+      "y": -488699.556,
+      "longitude": 2.2860385,
+      "latitude": 48.8699556,
+      "visited": true
+    },
+    {
+      "id": 3763562357,
+      "text": "Concorde",
+      "size": 5,
+      "x": 23223.767,
+      "y": -488662.052,
+      "longitude": 2.3223767,
+      "latitude": 48.8662052
+    },
+    {
+      "id": 3931967758,
+      "text": "Invalides",
+      "size": 5,
+      "x": 23144.984,
+      "y": -488608.923,
+      "longitude": 2.3144984,
+      "latitude": 48.8608923,
+      "visited": true
+    },
+    {
+      "id": 4058743747,
+      "text": "Gambetta",
+      "size": 5,
+      "x": 23984.496000000003,
+      "y": -488648.76700000005,
+      "longitude": 2.3984496,
+      "latitude": 48.8648767
+    },
+    {
+      "id": 4058783101,
+      "text": "Trocadéro",
+      "size": 5,
+      "x": 22871.435999999998,
+      "y": -488630.487,
+      "longitude": 2.2871436,
+      "latitude": 48.8630487,
+      "visited": true
+    },
+    {
+      "id": 4067925155,
+      "text": "Pigalle",
+      "size": 5,
+      "x": 23381.228,
+      "y": -488822.775,
+      "longitude": 2.3381228,
+      "latitude": 48.8822775,
+      "visited": true
+    },
+    {
+      "id": 4075421186,
+      "text": "Château Rouge",
+      "size": 5,
+      "x": 23495.532,
+      "y": -488872.884,
+      "longitude": 2.3495532,
+      "latitude": 48.8872884
+    },
+    {
+      "id": 4083286998,
+      "text": "Jussieu",
+      "size": 5,
+      "x": 23548.215,
+      "y": -488459.85400000005,
+      "longitude": 2.3548215,
+      "latitude": 48.8459854,
+      "visited": true
+    },
+    {
+      "id": 4317589118,
+      "text": "Charles de Gaulle — Étoile (metro)",
+      "size": 5,
+      "x": 22958.259000000002,
+      "y": -488749.283,
+      "longitude": 2.2958259,
+      "latitude": 48.8749283,
+      "visited": true
+    },
+    {
+      "id": 4576903454,
+      "text": "Porte des Lilas",
+      "size": 5,
+      "x": 24065.474,
+      "y": -488770.575,
+      "longitude": 2.4065474,
+      "latitude": 48.8770575,
+      "visited": true
+    }
+  ],
+  "edges": [
+    {
+      "source": 928458344,
+      "target": 300869641,
+      "id": "928458344-300869641",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 300869641,
+      "target": 300869611,
+      "id": "300869641-300869611",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 300869611,
+      "target": 300870184,
+      "id": "300869611-300870184",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 300870184,
+      "target": 300870186,
+      "id": "300870184-300870186",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 300870186,
+      "target": 300876896,
+      "id": "300870186-300876896",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 300876896,
+      "target": 300877457,
+      "id": "300876896-300877457",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 300877457,
+      "target": 264482296,
+      "id": "300877457-264482296",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264482296,
+      "target": 264491320,
+      "id": "264482296-264491320",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264491320,
+      "target": 264482297,
+      "id": "264491320-264482297",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264482297,
+      "target": 1584432760,
+      "id": "264482297-1584432760",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 1584432760,
+      "target": 264482226,
+      "id": "1584432760-264482226",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264482226,
+      "target": 260762379,
+      "id": "264482226-260762379",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 260762379,
+      "target": 264481854,
+      "id": "260762379-264481854",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264481854,
+      "target": 27371892,
+      "id": "264481854-27371892",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 27371892,
+      "target": 264481019,
+      "id": "27371892-264481019",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264481019,
+      "target": 264480784,
+      "id": "264481019-264480784",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264480784,
+      "target": 264479775,
+      "id": "264480784-264479775",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264479775,
+      "target": 264479724,
+      "id": "264479775-264479724",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264479724,
+      "target": 264476971,
+      "id": "264479724-264476971",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264476971,
+      "target": 256897077,
+      "id": "264476971-256897077",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 256897077,
+      "target": 256897078,
+      "id": "256897077-256897078",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 256897078,
+      "target": 256897079,
+      "id": "256897078-256897079",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 256897079,
+      "target": 256897080,
+      "id": "256897079-256897080",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 256897080,
+      "target": 243510336,
+      "id": "256897080-243510336",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 243510336,
+      "target": 264117312,
+      "id": "243510336-264117312",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264117312,
+      "target": 1489806669,
+      "id": "264117312-1489806669",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 1489806669,
+      "target": 264473011,
+      "id": "1489806669-264473011",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264473011,
+      "target": 264469541,
+      "id": "264473011-264469541",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264469541,
+      "target": 34909170,
+      "id": "264469541-34909170",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 34909170,
+      "target": 264469160,
+      "id": "34909170-264469160",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 264469160,
+      "target": 260231833,
+      "id": "264469160-260231833",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 260231833,
+      "target": 260231832,
+      "id": "260231833-260231832",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 260231832,
+      "target": 260231831,
+      "id": "260231832-260231831",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 260231831,
+      "target": 260231828,
+      "id": "260231831-260231828",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 260231828,
+      "target": 300867961,
+      "id": "260231828-300867961",
+      "text": "Métro 8",
+      "line": "Métro 8",
+      "color": "#C5A3CA"
+    },
+    {
+      "source": 270244850,
+      "target": 270244435,
+      "id": "270244850-270244435",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 270244435,
+      "target": 270244436,
+      "id": "270244435-270244436",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 270244436,
+      "target": 264778142,
+      "id": "270244436-264778142",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264778142,
+      "target": 264776910,
+      "id": "264778142-264776910",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264776910,
+      "target": 264776029,
+      "id": "264776910-264776029",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264776029,
+      "target": 264776028,
+      "id": "264776029-264776028",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264776028,
+      "target": 235377792,
+      "id": "264776028-235377792",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 235377792,
+      "target": 264775552,
+      "id": "235377792-264775552",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264775552,
+      "target": 326309672,
+      "id": "264775552-326309672",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 326309672,
+      "target": 264508548,
+      "id": "326309672-264508548",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264508548,
+      "target": 264775805,
+      "id": "264508548-264775805",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264775805,
+      "target": 264780947,
+      "id": "264775805-264780947",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264780947,
+      "target": 264780946,
+      "id": "264780947-264780946",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264780946,
+      "target": 256897458,
+      "id": "264780946-256897458",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 256897458,
+      "target": 243510336,
+      "id": "256897458-243510336",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 243510336,
+      "target": 264494507,
+      "id": "243510336-264494507",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264494507,
+      "target": 27362259,
+      "id": "264494507-27362259",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 27362259,
+      "target": 264784170,
+      "id": "27362259-264784170",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264784170,
+      "target": 3164606077,
+      "id": "264784170-3164606077",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 3164606077,
+      "target": 264785952,
+      "id": "3164606077-264785952",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264785952,
+      "target": 264785951,
+      "id": "264785952-264785951",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264785951,
+      "target": 4083286998,
+      "id": "264785951-4083286998",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 4083286998,
+      "target": 264786014,
+      "id": "4083286998-264786014",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264786014,
+      "target": 264789025,
+      "id": "264786014-264789025",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264789025,
+      "target": 264790337,
+      "id": "264789025-264790337",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 264790337,
+      "target": 235371392,
+      "id": "264790337-235371392",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 235371392,
+      "target": 268467197,
+      "id": "235371392-268467197",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 268467197,
+      "target": 268467526,
+      "id": "268467197-268467526",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 268467526,
+      "target": 268467559,
+      "id": "268467526-268467559",
+      "text": "Métro 7",
+      "line": "Métro 7",
+      "color": "#DF9AB1"
+    },
+    {
+      "source": 1771632724,
+      "target": 2490099593,
+      "id": "1771632724-2490099593",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 2490099593,
+      "target": 330026020,
+      "id": "2490099593-330026020",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 330026020,
+      "target": 264772862,
+      "id": "330026020-264772862",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264772862,
+      "target": 264772861,
+      "id": "264772862-264772861",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264772861,
+      "target": 264772371,
+      "id": "264772861-264772371",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264772371,
+      "target": 264772256,
+      "id": "264772371-264772256",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264772256,
+      "target": 1997722992,
+      "id": "264772256-1997722992",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 1997722992,
+      "target": 235377792,
+      "id": "1997722992-235377792",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 235377792,
+      "target": 264508125,
+      "id": "235377792-264508125",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264508125,
+      "target": 264508548,
+      "id": "264508125-264508548",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264508548,
+      "target": 251387813,
+      "id": "264508548-251387813",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 251387813,
+      "target": 256896059,
+      "id": "251387813-256896059",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 256896059,
+      "target": 264769297,
+      "id": "256896059-264769297",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264769297,
+      "target": 264769296,
+      "id": "264769297-264769296",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264769296,
+      "target": 264480619,
+      "id": "264769296-264480619",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 264480619,
+      "target": 3419908162,
+      "id": "264480619-3419908162",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 3419908162,
+      "target": 265055434,
+      "id": "3419908162-265055434",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 265055434,
+      "target": 265055750,
+      "id": "265055434-265055750",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 265055750,
+      "target": 235371392,
+      "id": "265055750-235371392",
+      "text": "Métro 5",
+      "line": "Métro 5",
+      "color": "#DE8B53"
+    },
+    {
+      "source": 3542631493,
+      "target": 264117312,
+      "id": "3542631493-264117312",
+      "text": "Métro 14",
+      "line": "Métro 14",
+      "color": "#67328E"
+    },
+    {
+      "source": 264117312,
+      "target": 1656938775,
+      "id": "264117312-1656938775",
+      "text": "Métro 14",
+      "line": "Métro 14",
+      "color": "#67328E"
+    },
+    {
+      "source": 1656938775,
+      "target": 260762540,
+      "id": "1656938775-260762540",
+      "text": "Métro 14",
+      "line": "Métro 14",
+      "color": "#67328E"
+    },
+    {
+      "source": 260762540,
+      "target": 3146958064,
+      "id": "260762540-3146958064",
+      "text": "Métro 14",
+      "line": "Métro 14",
+      "color": "#67328E"
+    },
+    {
+      "source": 3146958064,
+      "target": 264491193,
+      "id": "3146958064-264491193",
+      "text": "Métro 14",
+      "line": "Métro 14",
+      "color": "#67328E"
+    },
+    {
+      "source": 1780486821,
+      "target": 264505993,
+      "id": "1780486821-264505993",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264505993,
+      "target": 264508548,
+      "id": "264505993-264508548",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264508548,
+      "target": 264512252,
+      "id": "264508548-264512252",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264512252,
+      "target": 256897077,
+      "id": "264512252-256897077",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 256897077,
+      "target": 243507794,
+      "id": "256897077-243507794",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 243507794,
+      "target": 264509793,
+      "id": "243507794-264509793",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264509793,
+      "target": 264513655,
+      "id": "264509793-264513655",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264513655,
+      "target": 3164606078,
+      "id": "264513655-3164606078",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 3164606078,
+      "target": 264514896,
+      "id": "3164606078-264514896",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264514896,
+      "target": 264515098,
+      "id": "264514896-264515098",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264515098,
+      "target": 260079008,
+      "id": "264515098-260079008",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 260079008,
+      "target": 264519782,
+      "id": "260079008-264519782",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264519782,
+      "target": 324352448,
+      "id": "264519782-324352448",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 324352448,
+      "target": 264520061,
+      "id": "324352448-264520061",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264520061,
+      "target": 324363999,
+      "id": "264520061-324363999",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 324363999,
+      "target": 264526095,
+      "id": "324363999-264526095",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264526095,
+      "target": 220289389,
+      "id": "264526095-220289389",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 220289389,
+      "target": 220289387,
+      "id": "220289389-220289387",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 220289387,
+      "target": 220289385,
+      "id": "220289387-220289385",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 220289385,
+      "target": 220289382,
+      "id": "220289385-220289382",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 220289382,
+      "target": 220289379,
+      "id": "220289382-220289379",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 220289379,
+      "target": 1480535477,
+      "id": "220289379-1480535477",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 1480535477,
+      "target": 1481147746,
+      "id": "1480535477-1481147746",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 1481147746,
+      "target": 2188235051,
+      "id": "1481147746-2188235051",
+      "text": "Métro 4",
+      "line": "Métro 4",
+      "color": "#BB4D98"
+    },
+    {
+      "source": 264541617,
+      "target": 264539964,
+      "id": "264541617-264539964",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 260767428,
+      "target": 264537727,
+      "id": "260767428-264537727",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 264538576,
+      "target": 264534424,
+      "id": "264538576-264534424",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 264534424,
+      "target": 264534423,
+      "id": "264534424-264534423",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 264534423,
+      "target": 261666122,
+      "id": "264534423-261666122",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 261666122,
+      "target": 34909170,
+      "id": "261666122-34909170",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 34909170,
+      "target": 261665825,
+      "id": "34909170-261665825",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 261665825,
+      "target": 245250755,
+      "id": "261665825-245250755",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 245250755,
+      "target": 473070143,
+      "id": "245250755-473070143",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 473070143,
+      "target": 261162833,
+      "id": "473070143-261162833",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 261162833,
+      "target": 260079322,
+      "id": "261162833-260079322",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 260079322,
+      "target": 260079008,
+      "id": "260079322-260079008",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 260079008,
+      "target": 260078622,
+      "id": "260079008-260078622",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 260078622,
+      "target": 260078619,
+      "id": "260078622-260078619",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 260078619,
+      "target": 260078615,
+      "id": "260078619-260078615",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 260078615,
+      "target": 4083286998,
+      "id": "260078615-4083286998",
+      "text": "Métro 10",
+      "line": "Métro 10",
+      "color": "#DFB039"
+    },
+    {
+      "source": 2075532859,
+      "target": 264505930,
+      "id": "2075532859-264505930",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264505930,
+      "target": 249335596,
+      "id": "264505930-249335596",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 249335596,
+      "target": 1481147746,
+      "id": "249335596-1481147746",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 1481147746,
+      "target": 264505450,
+      "id": "1481147746-264505450",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264505450,
+      "target": 264505153,
+      "id": "264505450-264505153",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264505153,
+      "target": 264505115,
+      "id": "264505153-264505115",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264505115,
+      "target": 4067925155,
+      "id": "264505115-4067925155",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 4067925155,
+      "target": 264504832,
+      "id": "4067925155-264504832",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264504832,
+      "target": 264495078,
+      "id": "264504832-264495078",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264495078,
+      "target": 264495077,
+      "id": "264495078-264495077",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264495077,
+      "target": 3542631493,
+      "id": "264495077-3542631493",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 3542631493,
+      "target": 634996117,
+      "id": "3542631493-634996117",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 634996117,
+      "target": 264117312,
+      "id": "634996117-264117312",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264117312,
+      "target": 263917856,
+      "id": "264117312-263917856",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 263917856,
+      "target": 263497271,
+      "id": "263917856-263497271",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 263497271,
+      "target": 263497272,
+      "id": "263497271-263497272",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 263497272,
+      "target": 264495553,
+      "id": "263497272-264495553",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 264495553,
+      "target": 261162833,
+      "id": "264495553-261162833",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 261162833,
+      "target": 263499468,
+      "id": "261162833-263499468",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 263499468,
+      "target": 263499471,
+      "id": "263499468-263499471",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 263499471,
+      "target": 324363999,
+      "id": "263499471-324363999",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 324363999,
+      "target": 244494496,
+      "id": "324363999-244494496",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 244494496,
+      "target": 260764273,
+      "id": "244494496-260764273",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 260764273,
+      "target": 244494489,
+      "id": "260764273-244494489",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 244494489,
+      "target": 244494486,
+      "id": "244494489-244494486",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 244494486,
+      "target": 134305198,
+      "id": "244494486-134305198",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 134305198,
+      "target": 134305192,
+      "id": "134305198-134305192",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 134305192,
+      "target": 134299013,
+      "id": "134305192-134299013",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 134299013,
+      "target": 134299001,
+      "id": "134299013-134299001",
+      "text": "Métro 12",
+      "line": "Métro 12",
+      "color": "#328E5B"
+    },
+    {
+      "source": 370455978,
+      "target": 355153536,
+      "id": "370455978-355153536",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 355153536,
+      "target": 29588070,
+      "id": "355153536-29588070",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 29588070,
+      "target": 260767430,
+      "id": "29588070-260767430",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767430,
+      "target": 260767429,
+      "id": "260767430-260767429",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767429,
+      "target": 260767428,
+      "id": "260767429-260767428",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767428,
+      "target": 260767427,
+      "id": "260767428-260767427",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767427,
+      "target": 260767426,
+      "id": "260767427-260767426",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767426,
+      "target": 260767425,
+      "id": "260767426-260767425",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767425,
+      "target": 260767424,
+      "id": "260767425-260767424",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767424,
+      "target": 260767423,
+      "id": "260767424-260767423",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767423,
+      "target": 4058783101,
+      "id": "260767423-4058783101",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 4058783101,
+      "target": 260767422,
+      "id": "4058783101-260767422",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260767422,
+      "target": 260769132,
+      "id": "260767422-260769132",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260769132,
+      "target": 27362251,
+      "id": "260769132-27362251",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 27362251,
+      "target": 260769651,
+      "id": "27362251-260769651",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260769651,
+      "target": 260769652,
+      "id": "260769651-260769652",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 260769652,
+      "target": 256897554,
+      "id": "260769652-256897554",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256897554,
+      "target": 243510337,
+      "id": "256897554-243510337",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 243510337,
+      "target": 256897458,
+      "id": "243510337-256897458",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256897458,
+      "target": 256897080,
+      "id": "256897458-256897080",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256897077,
+      "target": 256896059,
+      "id": "256897077-256896059",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256896059,
+      "target": 256895609,
+      "id": "256896059-256895609",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256895609,
+      "target": 256895321,
+      "id": "256895609-256895321",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256895321,
+      "target": 256443438,
+      "id": "256895321-256443438",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256443438,
+      "target": 256443205,
+      "id": "256443438-256443205",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256443205,
+      "target": 241928557,
+      "id": "256443205-241928557",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 241928557,
+      "target": 243486950,
+      "id": "241928557-243486950",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 243486950,
+      "target": 256441194,
+      "id": "243486950-256441194",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256441194,
+      "target": 256442276,
+      "id": "256441194-256442276",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256442276,
+      "target": 256442845,
+      "id": "256442276-256442845",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 256442845,
+      "target": 255160720,
+      "id": "256442845-255160720",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 255160720,
+      "target": 255160722,
+      "id": "255160720-255160722",
+      "text": "Métro 9",
+      "line": "Métro 9",
+      "color": "#CDC83F"
+    },
+    {
+      "source": 241928757,
+      "target": 241928758,
+      "id": "241928757-241928758",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 241928758,
+      "target": 243487863,
+      "id": "241928758-243487863",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 243487863,
+      "target": 27371900,
+      "id": "243487863-27371900",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27371900,
+      "target": 241928557,
+      "id": "27371900-241928557",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 241928557,
+      "target": 27371892,
+      "id": "241928557-27371892",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27371892,
+      "target": 27371889,
+      "id": "27371892-27371889",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27371889,
+      "target": 27371876,
+      "id": "27371889-27371876",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27371876,
+      "target": 27371867,
+      "id": "27371876-27371867",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27371867,
+      "target": 3703619694,
+      "id": "27371867-3703619694",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 3703619694,
+      "target": 3175323853,
+      "id": "3703619694-3175323853",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 3175323853,
+      "target": 27362260,
+      "id": "3175323853-27362260",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362260,
+      "target": 27362259,
+      "id": "27362260-27362259",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362259,
+      "target": 27362258,
+      "id": "27362259-27362258",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362258,
+      "target": 27362257,
+      "id": "27362258-27362257",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362257,
+      "target": 282635141,
+      "id": "27362257-282635141",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 282635141,
+      "target": 27362249,
+      "id": "282635141-27362249",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362249,
+      "target": 4317589118,
+      "id": "27362249-4317589118",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 4317589118,
+      "target": 27362240,
+      "id": "4317589118-27362240",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362240,
+      "target": 2493410447,
+      "id": "27362240-2493410447",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 2493410447,
+      "target": 27362238,
+      "id": "2493410447-27362238",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27362238,
+      "target": 3148750837,
+      "id": "27362238-3148750837",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 3148750837,
+      "target": 27332092,
+      "id": "3148750837-27332092",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 27332092,
+      "target": 137533248,
+      "id": "27332092-137533248",
+      "text": "Métro 1",
+      "line": "Métro 1",
+      "color": "#F2C931"
+    },
+    {
+      "source": 3164606088,
+      "target": 3703619694,
+      "id": "3164606088-3703619694",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 3703619694,
+      "target": 264592424,
+      "id": "3703619694-264592424",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 264592424,
+      "target": 243507793,
+      "id": "264592424-243507793",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 243507793,
+      "target": 264591604,
+      "id": "243507793-264591604",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 264591604,
+      "target": 243493845,
+      "id": "264591604-243493845",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 243493845,
+      "target": 264690372,
+      "id": "243493845-264690372",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 264690372,
+      "target": 264692522,
+      "id": "264690372-264692522",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 264692522,
+      "target": 2066461402,
+      "id": "264692522-2066461402",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 2066461402,
+      "target": 264690370,
+      "id": "2066461402-264690370",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 264690370,
+      "target": 264795933,
+      "id": "264690370-264795933",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 264795933,
+      "target": 4576903454,
+      "id": "264795933-4576903454",
+      "text": "Métro 11",
+      "line": "Métro 11",
+      "color": "#8E6538"
+    },
+    {
+      "source": 331524254,
+      "target": 331523267,
+      "id": "331524254-331523267",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 331523267,
+      "target": 313430306,
+      "id": "331523267-313430306",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 313430306,
+      "target": 313428413,
+      "id": "313430306-313428413",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 313428413,
+      "target": 265060965,
+      "id": "313428413-265060965",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 265060965,
+      "target": 265060832,
+      "id": "265060965-265060832",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 265060832,
+      "target": 265060052,
+      "id": "265060832-265060052",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 265060052,
+      "target": 269337982,
+      "id": "265060052-269337982",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 269337982,
+      "target": 269337980,
+      "id": "269337982-269337980",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 269337980,
+      "target": 249524554,
+      "id": "269337980-249524554",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 249524554,
+      "target": 261611470,
+      "id": "249524554-261611470",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 261611470,
+      "target": 261611884,
+      "id": "261611470-261611884",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 261611884,
+      "target": 261612240,
+      "id": "261611884-261612240",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 261612240,
+      "target": 243496027,
+      "id": "261612240-243496027",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 243496027,
+      "target": 331514770,
+      "id": "243496027-331514770",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 331514770,
+      "target": 3542631493,
+      "id": "331514770-3542631493",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 3542631493,
+      "target": 260769652,
+      "id": "3542631493-260769652",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 260769652,
+      "target": 282635141,
+      "id": "260769652-282635141",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 282635141,
+      "target": 264473695,
+      "id": "282635141-264473695",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 264473695,
+      "target": 245250759,
+      "id": "264473695-245250759",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 245250759,
+      "target": 245250758,
+      "id": "245250759-245250758",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 245250758,
+      "target": 245250755,
+      "id": "245250758-245250755",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 245250755,
+      "target": 1805529567,
+      "id": "245250755-1805529567",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 1805529567,
+      "target": 264704365,
+      "id": "1805529567-264704365",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 264704365,
+      "target": 264712433,
+      "id": "264704365-264712433",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 264712433,
+      "target": 264712432,
+      "id": "264712433-264712432",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 264712432,
+      "target": 2023231831,
+      "id": "264712432-2023231831",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 2023231831,
+      "target": 264717964,
+      "id": "2023231831-264717964",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 264717964,
+      "target": 12388534,
+      "id": "264717964-12388534",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 12388534,
+      "target": 12388528,
+      "id": "12388534-12388528",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 12388528,
+      "target": 3931967758,
+      "id": "12388528-3931967758",
+      "text": "Métro 13",
+      "line": "Métro 13",
+      "color": "#89C7D6"
+    },
+    {
+      "source": 4317589118,
+      "target": 260765385,
+      "id": "4317589118-260765385",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260765385,
+      "target": 260765387,
+      "id": "260765385-260765387",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260765387,
+      "target": 4058783101,
+      "id": "260765387-4058783101",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 4058783101,
+      "target": 260765390,
+      "id": "4058783101-260765390",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260765390,
+      "target": 338930214,
+      "id": "260765390-338930214",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 338930214,
+      "target": 34909187,
+      "id": "338930214-34909187",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 34909187,
+      "target": 34909170,
+      "id": "34909187-34909170",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 34909170,
+      "target": 34909171,
+      "id": "34909170-34909171",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 34909171,
+      "target": 1659843199,
+      "id": "34909171-1659843199",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260764273,
+      "target": 260763474,
+      "id": "260764273-260763474",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260763474,
+      "target": 1805529567,
+      "id": "260763474-1805529567",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 1805529567,
+      "target": 220289389,
+      "id": "1805529567-220289389",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 220289387,
+      "target": 235369898,
+      "id": "220289387-235369898",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235369898,
+      "target": 235370184,
+      "id": "235369898-235370184",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235370184,
+      "target": 235370505,
+      "id": "235370184-235370505",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235370505,
+      "target": 235371392,
+      "id": "235370505-235371392",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235371392,
+      "target": 235371394,
+      "id": "235371392-235371394",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235371394,
+      "target": 235371395,
+      "id": "235371394-235371395",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235371395,
+      "target": 235374383,
+      "id": "235371395-235374383",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 235374383,
+      "target": 260762540,
+      "id": "235374383-260762540",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260762540,
+      "target": 260762378,
+      "id": "260762540-260762378",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260762378,
+      "target": 260762379,
+      "id": "260762378-260762379",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 260762379,
+      "target": 245455187,
+      "id": "260762379-245455187",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 245455187,
+      "target": 264490283,
+      "id": "245455187-264490283",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 264490283,
+      "target": 241928557,
+      "id": "264490283-241928557",
+      "text": "Métro 6",
+      "line": "Métro 6",
+      "color": "#75c695"
+    },
+    {
+      "source": 241928557,
+      "target": 243489718,
+      "id": "241928557-243489718",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243489718,
+      "target": 243490764,
+      "id": "243489718-243490764",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243490764,
+      "target": 243490763,
+      "id": "243490764-243490763",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243490763,
+      "target": 243490762,
+      "id": "243490763-243490762",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243490762,
+      "target": 243490761,
+      "id": "243490762-243490761",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243490761,
+      "target": 243493846,
+      "id": "243490761-243493846",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243493916,
+      "target": 1997722992,
+      "id": "243493916-1997722992",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 235377792,
+      "target": 4067925155,
+      "id": "235377792-4067925155",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 4067925155,
+      "target": 243496025,
+      "id": "4067925155-243496025",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243496025,
+      "target": 243496027,
+      "id": "243496025-243496027",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243496027,
+      "target": 243496028,
+      "id": "243496027-243496028",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243496028,
+      "target": 243496029,
+      "id": "243496028-243496029",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243496029,
+      "target": 243496030,
+      "id": "243496029-243496030",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 243496030,
+      "target": 2066488458,
+      "id": "243496030-2066488458",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 2066488458,
+      "target": 838533003,
+      "id": "2066488458-838533003",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 838533003,
+      "target": 4317589118,
+      "id": "838533003-4317589118",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 4317589118,
+      "target": 3703620036,
+      "id": "4317589118-3703620036",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    },
+    {
+      "source": 3703620036,
+      "target": 243496729,
+      "id": "3703620036-243496729",
+      "text": "Métro 2",
+      "line": "Métro 2",
+      "color": "#216EB4"
+    }
+  ]
+}
